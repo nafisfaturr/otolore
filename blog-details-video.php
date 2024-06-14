@@ -155,8 +155,8 @@
                             <span class="woocommerce-Price-currencySymbol">$</span>4398.00</span>
                     </p>
                     <p class="woocommerce-mini-cart__buttons buttons">
-                        <a href="cart.html" class="th-btn wc-forward">View cart</a>
-                        <a href="checkout.html" class="th-btn checkout wc-forward">Checkout</a>
+                        <a href="cart.php" class="th-btn wc-forward">View cart</a>
+                        <a href="checkout.php" class="th-btn checkout wc-forward">Checkout</a>
                     </p>
                 </div>
             </div>
@@ -170,8 +170,8 @@
             <div class="widget  ">
                 <div class="th-widget-about">
                     <div class="about-logo">
-                        <a href="home-newspaper.html"><img class="light-img" src="assets/img/logo-footer-black.svg" alt="Tnews"></a>
-                        <a href="home-newspaper.html"><img class="dark-img" src="assets/img/logo-footer.svg" alt="Tnews"></a>
+                        <a href="home-newspaper.php"><img class="light-img" src="assets/img/logo-footer-black.svg" alt="Tnews"></a>
+                        <a href="home-newspaper.php"><img class="dark-img" src="assets/img/logo-footer.svg" alt="Tnews"></a>
                     </div>
                     <p class="about-text">Magazines cover a wide subjects, including not limited to fashion, lifestyle, health, politics, business, Entertainment, sports, science,</p>
                     <div class="th-social style-black">
@@ -187,45 +187,45 @@
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.html">Fitness: Your journey to Better, stronger you.</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Fitness: Your journey to Better, stronger you.</a></h4>
                             <div class="recent-post-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                             </div>
                         </div>
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.html">Embrace the game Ignite your sporting</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Embrace the game Ignite your sporting</a></h4>
                             <div class="recent-post-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                             </div>
                         </div>
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.html">Revolutionizing lives Through technology</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
                             <div class="recent-post-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
                             </div>
                         </div>
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.html">Enjoy the Virtual Reality embrace the</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Enjoy the Virtual Reality embrace the</a></h4>
                             <div class="recent-post-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
                             </div>
                         </div>
                     </div>
@@ -240,7 +240,7 @@
                 </form>
                 <div class="mt-30">
                     <input type="checkbox" id="Agree2">
-                    <label for="Agree2">I have read and accept the <a href="about.html">Terms & Policy</a></label>
+                    <label for="Agree2">I have read and accept the <a href="about.php">Terms & Policy</a></label>
                 </div>
             </div>
         </div>
@@ -258,27 +258,27 @@
         <div class="th-menu-area text-center">
             <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="home-newspaper.html"><img src="assets/img/logo.svg" alt="Tnews"></a>
+                <a href="home-newspaper.php"><img src="assets/img/logo.svg" alt="Tnews"></a>
             </div>
             <div class="th-mobile-menu">
                 <ul>
                     <li class="menu-item-has-children">
-                        <a href="home-newspaper.html">Home</a>
+                        <a href="home-newspaper.php">Home</a>
                         <ul class="sub-menu">
-                            <li><a href="home-newspaper.html">Home Newspaper</a></li>
-                            <li><a href="home-magazine.html">Home Magazine</a></li>
-                            <li><a href="home-sports.html">Home Sports</a></li>
-                            <li><a href="home-movie.html">Home Movie</a></li>
-                            <li><a href="home-gadget.html">Home Gadget</a></li>
+                            <li><a href="home-newspaper.php">Home Newspaper</a></li>
+                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                            <li><a href="home-sports.php">Home Sports</a></li>
+                            <li><a href="home-movie.php">Home Movie</a></li>
+                            <li><a href="home-gadget.php">Home Gadget</a></li>
                         </ul>
                     </li>
-                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li class="menu-item-has-children">
                         <a href="#">Category</a>
                         <ul class="sub-menu">
-                            <li><a href="category.html">Category</a></li>
-                            <li><a href="blog-three-column.html">Three Column</a></li>
-                            <li><a href="blog-three-column-sidebar.html">Three Column Sidebar</a></li>
+                            <li><a href="category.php">Category</a></li>
+                            <li><a href="blog-three-column.php">Three Column</a></li>
+                            <li><a href="blog-three-column-sidebar.php">Three Column Sidebar</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
@@ -287,33 +287,33 @@
                             <li class="menu-item-has-children">
                                 <a href="#">Shop</a>
                                 <ul class="sub-menu">
-                                    <li><a href="shop.html">Shop</a></li>
-                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                    <li><a href="cart.html">Cart Page</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
+                                    <li><a href="shop.php">Shop</a></li>
+                                    <li><a href="shop-details.php">Shop Details</a></li>
+                                    <li><a href="cart.php">Cart Page</a></li>
+                                    <li><a href="checkout.php">Checkout</a></li>
+                                    <li><a href="wishlist.php">Wishlist</a></li>
                                 </ul>
                             </li>
-                            <li><a href="team.html">Team</a></li>
-                            <li><a href="author.html">Author</a></li>
-                            <li><a href="error.html">Error Page</a></li>
+                            <li><a href="team.php">Team</a></li>
+                            <li><a href="author.php">Author</a></li>
+                            <li><a href="error.php">Error Page</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
                         <a href="#">Blog</a>
                         <ul class="sub-menu">
-                            <li><a href="blog.html">Blog Standard</a></li>
-                            <li><a href="blog-masonary.html">Blog Masonary</a></li>
-                            <li><a href="blog-list.html">Blog List</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                            <li><a href="blog-details-video.html">Blog Details Video</a></li>
-                            <li><a href="blog-details-audio.html">Blog Details Audio</a></li>
-                            <li><a href="blog-details-nosidebar.html">Blog Details Nosidebar</a></li>
-                            <li><a href="blog-details-full-img.html">Blog Details Full Image</a></li>
+                            <li><a href="blog.php">Blog Standard</a></li>
+                            <li><a href="blog-masonary.php">Blog Masonary</a></li>
+                            <li><a href="blog-list.php">Blog List</a></li>
+                            <li><a href="blog-details.php">Blog Details</a></li>
+                            <li><a href="blog-details-video.php">Blog Details Video</a></li>
+                            <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
+                            <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
+                            <li><a href="blog-details-full-img.php">Blog Details Full Image</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -328,9 +328,9 @@
                     <div class="col-auto d-none d-lg-block">
                         <div class="header-links">
                             <ul>
-                                <li><i class="fal fa-calendar-days"></i><a href="blog.html">20 August, 2023</a></li>
-                                <li><a href="about.html">Privacy Policy</a></li>
-                                <li><a href="about.html">Terms & Conditions</a></li>
+                                <li><i class="fal fa-calendar-days"></i><a href="blog.php">20 August, 2023</a></li>
+                                <li><a href="about.php">Privacy Policy</a></li>
+                                <li><a href="about.php">Terms & Conditions</a></li>
                                 <li>
                                     <a class="theme-toggler" href="#">
                                         <span class="dark"><i class="fas fa-moon"></i>Dark Mode</span>
@@ -343,7 +343,7 @@
                     <div class="col-auto">
                         <div class="header-links">
                             <ul>
-                                <li class="d-none d-sm-inline-block"><i class="far fa-user"></i><a href="blog.html">Login / register</a></li>
+                                <li class="d-none d-sm-inline-block"><i class="far fa-user"></i><a href="blog.php">Login / register</a></li>
                                 <li>
                                     <div class="social-links">
                                         <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
@@ -365,8 +365,8 @@
                     <div class="col-auto d-none d-lg-block">
                         <div class="col-auto">
                             <div class="header-logo">
-                                <a href="home-newspaper.html"><img class="light-img" src="assets/img/logo.svg" alt="Tnews"></a>
-                                <a href="home-newspaper.html"><img class="dark-img" src="assets/img/logo-white.svg" alt="Tnews"></a>
+                                <a href="home-newspaper.php"><img class="light-img" src="assets/img/logo.svg" alt="Tnews"></a>
+                                <a href="home-newspaper.php"><img class="dark-img" src="assets/img/logo-white.svg" alt="Tnews"></a>
                             </div>
                         </div>
                     </div>
@@ -388,29 +388,29 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto d-lg-none d-block">
                             <div class="header-logo">
-                                <a href="home-newspaper.html"><img src="assets/img/logo-white.svg" alt="Tnews"></a>
+                                <a href="home-newspaper.php"><img src="assets/img/logo-white.svg" alt="Tnews"></a>
                             </div>
                         </div>
                         <div class="col-auto">
                             <nav class="main-menu d-none d-lg-inline-block">
                                 <ul>
                                     <li class="menu-item-has-children">
-                                        <a href="home-newspaper.html">Home</a>
+                                        <a href="home-newspaper.php">Home</a>
                                         <ul class="sub-menu">
-                                            <li><a href="home-newspaper.html">Home Newspaper</a></li>
-                                            <li><a href="home-magazine.html">Home Magazine</a></li>
-                                            <li><a href="home-sports.html">Home Sports</a></li>
-                                            <li><a href="home-movie.html">Home Movie</a></li>
-                                            <li><a href="home-gadget.html">Home Gadget</a></li>
+                                            <li><a href="home-newspaper.php">Home Newspaper</a></li>
+                                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                                            <li><a href="home-sports.php">Home Sports</a></li>
+                                            <li><a href="home-movie.php">Home Movie</a></li>
+                                            <li><a href="home-gadget.php">Home Gadget</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="about.php">About Us</a></li>
                                     <li class="menu-item-has-children">
                                         <a href="#">Category</a>
                                         <ul class="sub-menu">
-                                            <li><a href="category.html">Category</a></li>
-                                            <li><a href="blog-three-column.html">Three Column</a></li>
-                                            <li><a href="blog-three-column-sidebar.html">Three Column Sidebar</a></li>
+                                            <li><a href="category.php">Category</a></li>
+                                            <li><a href="blog-three-column.php">Three Column</a></li>
+                                            <li><a href="blog-three-column-sidebar.php">Three Column Sidebar</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
@@ -419,33 +419,33 @@
                                             <li class="menu-item-has-children">
                                                 <a href="#">Shop</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="shop.html">Shop</a></li>
-                                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                                    <li><a href="cart.html">Cart Page</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="wishlist.html">Wishlist</a></li>
+                                                    <li><a href="shop.php">Shop</a></li>
+                                                    <li><a href="shop-details.php">Shop Details</a></li>
+                                                    <li><a href="cart.php">Cart Page</a></li>
+                                                    <li><a href="checkout.php">Checkout</a></li>
+                                                    <li><a href="wishlist.php">Wishlist</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="author.html">Author</a></li>
-                                            <li><a href="error.html">Error Page</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="author.php">Author</a></li>
+                                            <li><a href="error.php">Error Page</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a href="#">Blog</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog.html">Blog Standard</a></li>
-                                            <li><a href="blog-masonary.html">Blog Masonary</a></li>
-                                            <li><a href="blog-list.html">Blog List</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                            <li><a href="blog-details-video.html">Blog Details Video</a></li>
-                                            <li><a href="blog-details-audio.html">Blog Details Audio</a></li>
-                                            <li><a href="blog-details-nosidebar.html">Blog Details Nosidebar</a></li>
-                                            <li><a href="blog-details-full-img.html">Blog Details Full Image</a></li>
+                                            <li><a href="blog.php">Blog Standard</a></li>
+                                            <li><a href="blog-masonary.php">Blog Masonary</a></li>
+                                            <li><a href="blog-list.php">Blog List</a></li>
+                                            <li><a href="blog-details.php">Blog Details</a></li>
+                                            <li><a href="blog-details-video.php">Blog Details Video</a></li>
+                                            <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
+                                            <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
+                                            <li><a href="blog-details-full-img.php">Blog Details Full Image</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="contact.html">Contact</a>
+                                        <a href="contact.php">Contact</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -471,7 +471,7 @@
     <div class="breadcumb-wrapper">
         <div class="container">
             <ul class="breadcumb-menu">
-                <li><a href="home-newspaper.html">Home</a></li>
+                <li><a href="home-newspaper.php">Home</a></li>
                 <li>Blog Details Video</li>
             </ul>
         </div>
@@ -483,12 +483,12 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="th-blog blog-single style-bg">
-                        <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
+                        <a data-theme-color="#4E4BD0" href="blog.php" class="category">Sports</a>
                         <h2 class="blog-title">From haute couture to street chic, Fashion Celebrates every</h2>
                         <div class="blog-meta">
-                            <a class="author" href="blog.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
-                            <a href="blog-details.html"><i class="far fa-comments"></i>Comments (3)</a>
+                            <a class="author" href="blog.php"><i class="far fa-user"></i>By - Tnews</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
+                            <a href="blog-details.php"><i class="far fa-comments"></i>Comments (3)</a>
                             <span><i class="far fa-book-open"></i>5 Mins Read</span>
                         </div>
                         <div class="blog-video">
@@ -569,9 +569,9 @@
                                 <div class="blog-tag">
                                     <h6 class="title">Related Tag :</h6>
                                     <div class="tagcloud">
-                                        <a href="blog.html">Sports</a>
-                                        <a href="blog.html">Politics</a>
-                                        <a href="blog.html">Business</a>
+                                        <a href="blog.php">Sports</a>
+                                        <a href="blog.php">Politics</a>
+                                        <a href="blog.php">Business</a>
                                     </div>
                                 </div>
                             </div>
@@ -583,18 +583,18 @@
                                 </div>
                                 <div class="media-body">
                                     <h5 class="title">
-                                        <a class="hover-line" href="blog-details.html">Game on! Embrace the spirit of sportsmanship</a>
+                                        <a class="hover-line" href="blog-details.php">Game on! Embrace the spirit of sportsmanship</a>
                                     </h5>
-                                    <a href="blog-details.html" class="nav-text"><i class="fas fa-arrow-left me-2"></i>Prev</a>
+                                    <a href="blog-details.php" class="nav-text"><i class="fas fa-arrow-left me-2"></i>Prev</a>
                                 </div>
                             </div>
                             <div class="divider"></div>
                             <div class="nav-btn next">
                                 <div class="media-body">
                                     <h5 class="title">
-                                        <a class="hover-line" href="blog-details.html">Push your limits, redefine what's possible</a>
+                                        <a class="hover-line" href="blog-details.php">Push your limits, redefine what's possible</a>
                                     </h5>
-                                    <a href="blog-details.html" class="nav-text">Next<i class="fas fa-arrow-right ms-2"></i></a>
+                                    <a href="blog-details.php" class="nav-text">Next<i class="fas fa-arrow-right ms-2"></i></a>
                                 </div>
                                 <div class="img">
                                     <img src="assets/img/blog/blog-nav-2.jpg" alt="blog img" class="nav-img">
@@ -608,7 +608,7 @@
                             <div class="media-body">
                                 <div class="author-top">
                                     <div>
-                                        <h3 class="author-name"><a class="text-inherit" href="team-details.html">Ronald Richards</a></h3>
+                                        <h3 class="author-name"><a class="text-inherit" href="team-details.php">Ronald Richards</a></h3>
                                         <span class="author-desig">Founder & CEO</span>
                                     </div>
                                     <div class="social-links">
@@ -634,7 +634,7 @@
                                             <h3 class="name">Brooklyn Simmons</h3>
                                             <p class="text">Your sport blog is simply fantastic! The in-depth analysis, engaging writing style, and up-to-date coverage of various sports events make it a must-visit for any sports enthusiast.</p>
                                             <div class="reply_and_edit">
-                                                <a href="blog-details.html" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
+                                                <a href="blog-details.php" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
                                             </div>
                                         </div>
                                     </div>
@@ -649,7 +649,7 @@
                                                     <h3 class="name">Marvin McKinney</h3>
                                                     <p class="text">Whether it's breaking news, expert opinions, or inspiring athlete profiles, your blog delivers a winning combination of excitement and information that keeps.</p>
                                                     <div class="reply_and_edit">
-                                                        <a href="blog-details.html" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
+                                                        <a href="blog-details.php" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -666,7 +666,7 @@
                                             <h3 class="name">Ronald Richards</h3>
                                             <p class="text">The way you seamlessly blend statistical insights with compelling storytelling creates an immersive and captivating reading experience. Whether it's the latest match updates, behind-the-scenes glimpses.</p>
                                             <div class="reply_and_edit">
-                                                <a href="blog-details.html" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
+                                                <a href="blog-details.php" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
                                             </div>
                                         </div>
                                     </div>
@@ -714,22 +714,22 @@
                             <h3 class="widget_title">Categories</h3>
                             <ul>
                                 <li>
-                                    <a data-bg-src="assets/img/bg/category_bg_1_1.jpg" href="blog.html">Sports</a>
+                                    <a data-bg-src="assets/img/bg/category_bg_1_1.jpg" href="blog.php">Sports</a>
                                 </li>
                                 <li>
-                                    <a data-bg-src="assets/img/bg/category_bg_1_2.jpg" href="blog.html">Business</a>
+                                    <a data-bg-src="assets/img/bg/category_bg_1_2.jpg" href="blog.php">Business</a>
                                 </li>
                                 <li>
-                                    <a data-bg-src="assets/img/bg/category_bg_1_3.jpg" href="blog.html">Politics</a>
+                                    <a data-bg-src="assets/img/bg/category_bg_1_3.jpg" href="blog.php">Politics</a>
                                 </li>
                                 <li>
-                                    <a data-bg-src="assets/img/bg/category_bg_1_4.jpg" href="blog.html">Health</a>
+                                    <a data-bg-src="assets/img/bg/category_bg_1_4.jpg" href="blog.php">Health</a>
                                 </li>
                                 <li>
-                                    <a data-bg-src="assets/img/bg/category_bg_1_5.jpg" href="blog.html">Technology</a>
+                                    <a data-bg-src="assets/img/bg/category_bg_1_5.jpg" href="blog.php">Technology</a>
                                 </li>
                                 <li>
-                                    <a data-bg-src="assets/img/bg/category_bg_1_6.jpg" href="blog.html">Entertainment</a>
+                                    <a data-bg-src="assets/img/bg/category_bg_1_6.jpg" href="blog.php">Entertainment</a>
                                 </li>
                             </ul>
                         </div>
@@ -738,45 +738,45 @@
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.html">Fitness: Your journey to Better, stronger you.</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Fitness: Your journey to Better, stronger you.</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.html">Embrace the game Ignite your sporting</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Embrace the game Ignite your sporting</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.html">Revolutionizing lives Through technology</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.html">Enjoy the Virtual Reality embrace the</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Enjoy the Virtual Reality embrace the</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
                                         </div>
                                     </div>
                                 </div>
@@ -792,18 +792,18 @@
                         <div class="widget widget_tag_cloud  ">
                             <h3 class="widget_title">Popular Tags</h3>
                             <div class="tagcloud">
-                                <a href="blog.html">Sports</a>
-                                <a href="blog.html">Politics</a>
-                                <a href="blog.html">Business</a>
-                                <a href="blog.html">Music</a>
-                                <a href="blog.html">Food</a>
-                                <a href="blog.html">Technology</a>
-                                <a href="blog.html">Travels</a>
-                                <a href="blog.html">Health</a>
-                                <a href="blog.html">Fashions</a>
-                                <a href="blog.html">Animal</a>
-                                <a href="blog.html">Weather</a>
-                                <a href="blog.html">Movies</a>
+                                <a href="blog.php">Sports</a>
+                                <a href="blog.php">Politics</a>
+                                <a href="blog.php">Business</a>
+                                <a href="blog.php">Music</a>
+                                <a href="blog.php">Food</a>
+                                <a href="blog.php">Technology</a>
+                                <a href="blog.php">Travels</a>
+                                <a href="blog.php">Health</a>
+                                <a href="blog.php">Fashions</a>
+                                <a href="blog.php">Animal</a>
+                                <a href="blog.php">Weather</a>
+                                <a href="blog.php">Movies</a>
                             </div>
                         </div>
                     </aside>
@@ -828,12 +828,12 @@
                         <div class="blog-style1">
                             <div class="blog-img">
                                 <img src="assets/img/blog/blog_1_1.jpg" alt="blog image">
-                                <a data-theme-color="#00D084" href="blog.html" class="category">Lifestyle</a>
+                                <a data-theme-color="#00D084" href="blog.php" class="category">Lifestyle</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Balance harmony and joy in Every lifestyle.</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Balance harmony and joy in Every lifestyle.</a></h3>
                             <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>11 Mar, 2023</a>
+                                <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>11 Mar, 2023</a>
                             </div>
                         </div>
                     </div>
@@ -841,12 +841,12 @@
                         <div class="blog-style1">
                             <div class="blog-img">
                                 <img src="assets/img/blog/blog_1_2.jpg" alt="blog image">
-                                <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
+                                <a data-theme-color="#FF9500" href="blog.php" class="category">Politics</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Power to the people for a Better future!</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Power to the people for a Better future!</a></h3>
                             <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>23 Mar, 2023</a>
+                                <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>23 Mar, 2023</a>
                             </div>
                         </div>
                     </div>
@@ -854,12 +854,12 @@
                         <div class="blog-style1">
                             <div class="blog-img">
                                 <img src="assets/img/blog/blog_1_3.jpg" alt="blog image">
-                                <a data-theme-color="#E7473C" href="blog.html" class="category">Fitness</a>
+                                <a data-theme-color="#E7473C" href="blog.php" class="category">Fitness</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Fitness the key to vitality and Well-being.</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Fitness the key to vitality and Well-being.</a></h3>
                             <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>10 Mar, 2023</a>
+                                <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>10 Mar, 2023</a>
                             </div>
                         </div>
                     </div>
@@ -867,12 +867,12 @@
                         <div class="blog-style1">
                             <div class="blog-img">
                                 <img src="assets/img/blog/blog_1_4.jpg" alt="blog image">
-                                <a data-theme-color="#00D084" href="blog.html" class="category">Health</a>
+                                <a data-theme-color="#00D084" href="blog.php" class="category">Health</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Embrace bump and Victory volleyball style.</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Embrace bump and Victory volleyball style.</a></h3>
                             <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>28 Mar, 2023</a>
+                                <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>28 Mar, 2023</a>
                             </div>
                         </div>
                     </div>
@@ -880,12 +880,12 @@
                         <div class="blog-style1">
                             <div class="blog-img">
                                 <img src="assets/img/blog/blog_1_5.jpg" alt="blog image">
-                                <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
+                                <a data-theme-color="#FF9500" href="blog.php" class="category">Politics</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Leadership for the People By the people</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Leadership for the People By the people</a></h3>
                             <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>10 Mar, 2023</a>
+                                <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>10 Mar, 2023</a>
                             </div>
                         </div>
                     </div>
@@ -903,7 +903,7 @@
                         <div class="widget footer-widget">
                             <div class="th-widget-about">
                                 <div class="about-logo">
-                                    <a href="home-newspaper.html"><img src="assets/img/logo-footer.svg" alt="Tnews"></a>
+                                    <a href="home-newspaper.php"><img src="assets/img/logo-footer.svg" alt="Tnews"></a>
                                 </div>
                                 <p class="about-text">Magazines cover a wide subjects, including not limited to fashion, lifestyle, health, politics, business, Entertainment, sports, science,</p>
                                 <div class="th-social style-black">
@@ -920,12 +920,12 @@
                             <h3 class="widget_title">Categories</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="blog.html">Political</a></li>
-                                    <li><a href="blog.html">Business</a></li>
-                                    <li><a href="blog.html">Health</a></li>
-                                    <li><a href="blog.html">Technology</a></li>
-                                    <li><a href="blog.html">Sports</a></li>
-                                    <li><a href="blog.html">Entertainment</a></li>
+                                    <li><a href="blog.php">Political</a></li>
+                                    <li><a href="blog.php">Business</a></li>
+                                    <li><a href="blog.php">Health</a></li>
+                                    <li><a href="blog.php">Technology</a></li>
+                                    <li><a href="blog.php">Sports</a></li>
+                                    <li><a href="blog.php">Entertainment</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -936,23 +936,23 @@
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-2-1.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-2-1.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.html">Equality and justice for Every citizen</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Equality and justice for Every citizen</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-2-2.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-2-2.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.html">Key eyes on the latest update of technology</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Key eyes on the latest update of technology</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                                         </div>
                                     </div>
                                 </div>
@@ -963,18 +963,18 @@
                         <div class="widget widget_tag_cloud footer-widget">
                             <h3 class="widget_title">Popular Tags</h3>
                             <div class="tagcloud">
-                                <a href="blog.html">Sports</a>
-                                <a href="blog.html">Politics</a>
-                                <a href="blog.html">Business</a>
-                                <a href="blog.html">Music</a>
-                                <a href="blog.html">Food</a>
-                                <a href="blog.html">Technology</a>
-                                <a href="blog.html">Travels</a>
-                                <a href="blog.html">Health</a>
-                                <a href="blog.html">Fashions</a>
-                                <a href="blog.html">Animal</a>
-                                <a href="blog.html">Weather</a>
-                                <a href="blog.html">Movies</a>
+                                <a href="blog.php">Sports</a>
+                                <a href="blog.php">Politics</a>
+                                <a href="blog.php">Business</a>
+                                <a href="blog.php">Music</a>
+                                <a href="blog.php">Food</a>
+                                <a href="blog.php">Technology</a>
+                                <a href="blog.php">Travels</a>
+                                <a href="blog.php">Health</a>
+                                <a href="blog.php">Fashions</a>
+                                <a href="blog.php">Animal</a>
+                                <a href="blog.php">Weather</a>
+                                <a href="blog.php">Movies</a>
                             </div>
                         </div>
                     </div>
@@ -985,15 +985,15 @@
             <div class="container">
                 <div class="row jusity-content-between align-items-center">
                     <div class="col-lg-5">
-                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2023 <a href="home-newspaper.html">Tnews</a>. All Rights Reserved.</p>
+                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2023 <a href="home-newspaper.php">Tnews</a>. All Rights Reserved.</p>
                     </div>
                     <div class="col-lg-auto ms-auto d-none d-lg-block">
                         <div class="footer-links">
                             <ul>
-                                <li><a href="home-newspaper.html">Home</a></li>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="about.html">Faq</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="home-newspaper.php">Home</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="about.php">Faq</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>

@@ -4,10 +4,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Tnews - News & Magazine HTML Template - Home Newspaper</title>
-    <meta name="author" content="Tnews">
-    <meta name="description" content="Tnews - News & Magazine HTML Template">
-    <meta name="keywords" content="Tnews - News & Magazine HTML Template">
+    <title>OTOLORE</title>
+    <meta name="author" content="Cahya">
+    <meta name="description" content="Berita otomotif">
+    <meta name="keywords" content="otomotif">
     <meta name="robots" content="INDEX,FOLLOW">
 
     <!-- Mobile Specific Metas -->
@@ -23,10 +23,10 @@
     <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/icon-lore.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/icon-lore.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/icon-lore.svg">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/icon-lore.svg">
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
@@ -75,7 +75,7 @@
             <span class="loader"></span>
         </div>
     </div>
-    <div class="popup-subscribe-area">
+    <!-- <div class="popup-subscribe-area">
         <div class="container">
             <div class="popup-subscribe">
                 <div class="box-img">
@@ -95,6 +95,90 @@
                             <label for="destroyPopup">I don't want to see this popup again.</label>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!--==============================
+    Sidemenu
+============================== -->
+    <div class="sidemenu-wrapper sidemenu-1 d-none d-md-block ">
+        <div class="sidemenu-content">
+            <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
+            <div class="widget  ">
+                <div class="th-widget-about">
+                    <div class="about-logo">
+                        <a href="home-magazine.php"><img class="light-img" src="assets/img/logo-footer-black.svg" alt="Tnews"></a>
+                        <a href="home-magazine.php"><img class="dark-img" src="assets/img/logo-footer.svg" alt="Tnews"></a>
+                    </div>
+                    <p class="about-text">Magazines cover a wide subjects, including not limited to fashion, lifestyle, health, politics, business, Entertainment, sports, science,</p>
+                    <div class="th-social style-black">
+                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="widget  ">
+                <h3 class="widget_title">Recent Posts</h3>
+                <div class="recent-post-wrap">
+                    <div class="recent-post">
+                        <div class="media-img">
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Fitness: Your journey to Better, stronger you.</a></h4>
+                            <div class="recent-post-meta">
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2024</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="recent-post">
+                        <div class="media-img">
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Embrace the game Ignite your sporting</a></h4>
+                            <div class="recent-post-meta">
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2024</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="recent-post">
+                        <div class="media-img">
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
+                            <div class="recent-post-meta">
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2024</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="recent-post">
+                        <div class="media-img">
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Enjoy the Virtual Reality embrace the</a></h4>
+                            <div class="recent-post-meta">
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2024</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="widget newsletter-widget  ">
+                <h3 class="widget_title">Subscribe</h3>
+                <p class="footer-text">Sign up to get update about us. Don't be hasitate your email is safe.</p>
+                <form class="newsletter-form">
+                    <input class="form-control" type="email" placeholder="Enter Email" required="">
+                    <button type="submit" class="icon-btn"><i class="fa-solid fa-paper-plane"></i></button>
+                </form>
+                <div class="mt-30">
+                    <input type="checkbox" id="Agree2">
+                    <label for="Agree2">I have read and accept the <a href="about.php">Terms & Policy</a></label>
                 </div>
             </div>
         </div>
@@ -155,92 +239,9 @@
                             <span class="woocommerce-Price-currencySymbol">$</span>4398.00</span>
                     </p>
                     <p class="woocommerce-mini-cart__buttons buttons">
-                        <a href="cart.html" class="th-btn wc-forward">View cart</a>
-                        <a href="checkout.html" class="th-btn checkout wc-forward">Checkout</a>
+                        <a href="cart.php" class="th-btn wc-forward">View cart</a>
+                        <a href="checkout.php" class="th-btn checkout wc-forward">Checkout</a>
                     </p>
-                </div>
-            </div>
-        </div>
-    </div><!--==============================
-    Sidemenu
-============================== -->
-    <div class="sidemenu-wrapper sidemenu-1 d-none d-md-block ">
-        <div class="sidemenu-content">
-            <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
-            <div class="widget  ">
-                <div class="th-widget-about">
-                    <div class="about-logo">
-                        <a href="home-newspaper.html"><img class="light-img" src="assets/img/logo-footer-black.svg" alt="Tnews"></a>
-                        <a href="home-newspaper.html"><img class="dark-img" src="assets/img/logo-footer.svg" alt="Tnews"></a>
-                    </div>
-                    <p class="about-text">Magazines cover a wide subjects, including not limited to fashion, lifestyle, health, politics, business, Entertainment, sports, science,</p>
-                    <div class="th-social style-black">
-                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="widget  ">
-                <h3 class="widget_title">Recent Posts</h3>
-                <div class="recent-post-wrap">
-                    <div class="recent-post">
-                        <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.html">Fitness: Your journey to Better, stronger you.</a></h4>
-                            <div class="recent-post-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="recent-post">
-                        <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.html">Embrace the game Ignite your sporting</a></h4>
-                            <div class="recent-post-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="recent-post">
-                        <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.html">Revolutionizing lives Through technology</a></h4>
-                            <div class="recent-post-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="recent-post">
-                        <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.html">Enjoy the Virtual Reality embrace the</a></h4>
-                            <div class="recent-post-meta">
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="widget newsletter-widget  ">
-                <h3 class="widget_title">Subscribe</h3>
-                <p class="footer-text">Sign up to get update about us. Don't be hasitate your email is safe.</p>
-                <form class="newsletter-form">
-                    <input class="form-control" type="email" placeholder="Enter Email" required="">
-                    <button type="submit" class="icon-btn"><i class="fa-solid fa-paper-plane"></i></button>
-                </form>
-                <div class="mt-30">
-                    <input type="checkbox" id="Agree2">
-                    <label for="Agree2">I have read and accept the <a href="about.html">Terms & Policy</a></label>
                 </div>
             </div>
         </div>
@@ -258,62 +259,62 @@
         <div class="th-menu-area text-center">
             <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="home-newspaper.html"><img src="assets/img/logo.svg" alt="Tnews"></a>
+                <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" alt="Tnews"></a>
             </div>
             <div class="th-mobile-menu">
                 <ul>
-                    <li class="menu-item-has-children">
-                        <a href="home-newspaper.html">Home</a>
-                        <ul class="sub-menu">
-                            <li><a href="home-newspaper.html">Home Newspaper</a></li>
-                            <li><a href="home-magazine.html">Home Magazine</a></li>
-                            <li><a href="home-sports.html">Home Sports</a></li>
-                            <li><a href="home-movie.html">Home Movie</a></li>
-                            <li><a href="home-gadget.html">Home Gadget</a></li>
-                        </ul>
+                    <li class="">
+                        <a href="home-magazine.php">Home</a>
+                        <!-- <ul class="sub-menu">
+                            <li><a href="home-magazine.php">Home Newspaper</a></li>
+                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                            <li><a href="home-sports.php">Home Sports</a></li>
+                            <li><a href="home-movie.php">Home Movie</a></li>
+                            <li><a href="home-gadget.php">Home Gadget</a></li>
+                        </ul> -->
                     </li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Category</a>
-                        <ul class="sub-menu">
-                            <li><a href="category.html">Category</a></li>
-                            <li><a href="blog-three-column.html">Three Column</a></li>
-                            <li><a href="blog-three-column-sidebar.html">Three Column Sidebar</a></li>
-                        </ul>
+                    <li><a href="about.php">About Us</a></li>
+                    <li class="">
+                        <a href="blog-three-column.php">Category</a>
+                        <!-- <ul class="sub-menu">
+                            <li><a href="category.php">Category</a></li>
+                            <li><a href="blog-three-column.php">Three Column</a></li>
+                            <li><a href="blog-three-column-sidebar.php">Three Column Sidebar</a></li>
+                        </ul> -->
                     </li>
-                    <li class="menu-item-has-children">
+                    <!-- <li class="menu-item-has-children">
                         <a href="#">Pages</a>
                         <ul class="sub-menu">
                             <li class="menu-item-has-children">
                                 <a href="#">Shop</a>
                                 <ul class="sub-menu">
-                                    <li><a href="shop.html">Shop</a></li>
-                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                    <li><a href="cart.html">Cart Page</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
+                                    <li><a href="shop.php">Shop</a></li>
+                                    <li><a href="shop-details.php">Shop Details</a></li>
+                                    <li><a href="cart.php">Cart Page</a></li>
+                                    <li><a href="checkout.php">Checkout</a></li>
+                                    <li><a href="wishlist.php">Wishlist</a></li>
                                 </ul>
                             </li>
-                            <li><a href="team.html">Team</a></li>
-                            <li><a href="author.html">Author</a></li>
-                            <li><a href="error.html">Error Page</a></li>
+                            <li><a href="team.php">Team</a></li>
+                            <li><a href="team.php">Author</a></li>
+                            <li><a href="error.php">Error Page</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                     <li class="menu-item-has-children">
                         <a href="#">Blog</a>
                         <ul class="sub-menu">
-                            <li><a href="blog.html">Blog Standard</a></li>
-                            <li><a href="blog-masonary.html">Blog Masonary</a></li>
-                            <li><a href="blog-list.html">Blog List</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                            <li><a href="blog-details-video.html">Blog Details Video</a></li>
-                            <li><a href="blog-details-audio.html">Blog Details Audio</a></li>
-                            <li><a href="blog-details-nosidebar.html">Blog Details Nosidebar</a></li>
-                            <li><a href="blog-details-full-img.html">Blog Details Full Image</a></li>
+                            <li><a href="blog.php">Blog Standard</a></li>
+                            <li><a href="blog-masonary.php">Blog Masonary</a></li>
+                            <li><a href="blog-list.php">Blog List</a></li>
+                            <li><a href="blog-details.php">Blog Details</a></li>
+                            <li><a href="blog-details-video.php">Blog Details Video</a></li>
+                            <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
+                            <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
+                            <li><a href="blog-details-full-img.php">Blog Details Full Image</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -321,61 +322,40 @@
     </div><!--==============================
 	Header Area
 ==============================-->
-    <header class="th-header header-layout1">
+    <header class="th-header header-layout2 dark-theme">
         <div class="header-top">
             <div class="container">
-                <div class="row justify-content-center justify-content-lg-between align-items-center gy-2">
-                    <div class="col-auto d-none d-lg-block">
+                <div class="row justify-content-center justify-content-md-between align-items-center gy-2">
+                    <div class="col-auto d-none d-md-inline-block">
+                        <div class="header-icon">
+                            <a href="#" class="simple-icon sideMenuToggler"><i class="far fa-bars"></i></a>
+                            <button type="button" class="simple-icon"><i class="far fa-user"></i></button>
+                        </div>
                         <div class="header-links">
                             <ul>
-                                <li><i class="fal fa-calendar-days"></i><a href="blog.html">20 August, 2023</a></li>
-                                <li><a href="about.html">Privacy Policy</a></li>
-                                <li><a href="about.html">Terms & Conditions</a></li>
-                                <li>
-                                    <a class="theme-toggler" href="#">
-                                        <span class="dark"><i class="fas fa-moon"></i>Dark Mode</span>
-                                        <span class="light"><i class="fas fa-sun-bright"></i>Light Mode</span>
-                                    </a>
-                                </li>
+                                <li><i class="fal fa-calendar-days"></i><a href="blog.php">Senin 11 Maret, 2024</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-auto">
-                        <div class="header-links">
-                            <ul>
-                                <li class="d-none d-sm-inline-block"><i class="far fa-user"></i><a href="blog.html">Login / register</a></li>
-                                <li>
-                                    <div class="social-links">
-                                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </li>
-                            </ul>
+                    <div class="col-auto d-none d-lg-inline-block">
+                        <div class="header-logo">
+                            <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" style="width: 200px; height: 150px;" alt="Tnews"></a>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="header-middle">
-            <div class="container">
-                <div class="row justify-content-center justify-content-lg-between align-items-center">
-                    <div class="col-auto d-none d-lg-block">
-                        <div class="col-auto">
-                            <div class="header-logo">
-                                <a href="home-newspaper.html"><img class="light-img" src="assets/img/logo.svg" alt="Tnews"></a>
-                                <a href="home-newspaper.html"><img class="dark-img" src="assets/img/logo-white.svg" alt="Tnews"></a>
+                    <div class="col-auto text-center text-md-end">
+                        <div class="header-icon">
+                            <div class="theme-switcher">
+                                <button>
+                                    <span class="dark"><i class="fas fa-moon"></i></span>
+                                    <span class="light"><i class="fas fa-sun-bright"></i></span>
+                                </button>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-8 text-end">
-                        <div class="header-ads">
-                            <a href="https://themeforest.net/user/themeholy/portfolio">
-                                <img class="light-img" src="assets/img/ads/ads_banner_1.jpg" alt="ads">
-                                <img class="dark-img" src="assets/img/ads/ads_banner_1_dark.jpg" alt="ads">
-                            </a>
+                        <div class="header-links">
+                            <ul>
+                                <li><a href="about.php">PRIVASI & KEBIJAKAN</a></li>
+                                <li><a href="about.php">SYARAT & KETENTUAN </a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -388,299 +368,299 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto d-lg-none d-block">
                             <div class="header-logo">
-                                <a href="home-newspaper.html"><img src="assets/img/logo-white.svg" alt="Tnews"></a>
+                                <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" style="width: 30%;" alt="Tnews"></a>
                             </div>
                         </div>
                         <div class="col-auto">
                             <nav class="main-menu d-none d-lg-inline-block">
                                 <ul>
-                                    <li class="menu-item-has-children">
-                                        <a href="home-newspaper.html">Home</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="home-newspaper.html">Home Newspaper</a></li>
-                                            <li><a href="home-magazine.html">Home Magazine</a></li>
-                                            <li><a href="home-sports.html">Home Sports</a></li>
-                                            <li><a href="home-movie.html">Home Movie</a></li>
-                                            <li><a href="home-gadget.html">Home Gadget</a></li>
-                                        </ul>
+                                    <li class="">
+                                        <a href="home-magazine.php">Home</a>
+                                        <!-- <ul class="sub-menu">
+                                            <li><a href="home-magazine.php">Home Newspaper</a></li>
+                                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                                            <li><a href="home-sports.php">Home Sports</a></li>
+                                            <li><a href="home-movie.php">Home Movie</a></li>
+                                            <li><a href="home-gadget.php">Home Gadget</a></li>
+                                        </ul> -->
                                     </li>
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Category</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="category.html">Category</a></li>
-                                            <li><a href="blog-three-column.html">Three Column</a></li>
-                                            <li><a href="blog-three-column-sidebar.html">Three Column Sidebar</a></li>
-                                        </ul>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li class="">
+                                        <a href="blog-three-column.php">Blog</a>
+                                        <!-- <ul class="sub-menu">
+                                            <li><a href="category.php">Category</a></li>
+                                            <li><a href="blog-three-column.php">Three Column</a></li>
+                                            <li><a href="blog-three-column-sidebar.php">Three Column Sidebar</a></li>
+                                        </ul> -->
                                     </li>
-                                    <li class="menu-item-has-children">
+                                    <!-- <li class="menu-item-has-children">
                                         <a href="#">Pages</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item-has-children">
                                                 <a href="#">Shop</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="shop.html">Shop</a></li>
-                                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                                    <li><a href="cart.html">Cart Page</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="wishlist.html">Wishlist</a></li>
+                                                    <li><a href="shop.php">Shop</a></li>
+                                                    <li><a href="shop-details.php">Shop Details</a></li>
+                                                    <li><a href="cart.php">Cart Page</a></li>
+                                                    <li><a href="checkout.php">Checkout</a></li>
+                                                    <li><a href="wishlist.php">Wishlist</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="author.html">Author</a></li>
-                                            <li><a href="error.html">Error Page</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="team.php">Author</a></li>
+                                            <li><a href="error.php">Error Page</a></li>
                                         </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Blog</a>
+                                    </li> -->
+                                    <!-- <li class="">
+                                        <a href="blog.php">Blog</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog.html">Blog Standard</a></li>
-                                            <li><a href="blog-masonary.html">Blog Masonary</a></li>
-                                            <li><a href="blog-list.html">Blog List</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                            <li><a href="blog-details-video.html">Blog Details Video</a></li>
-                                            <li><a href="blog-details-audio.html">Blog Details Audio</a></li>
-                                            <li><a href="blog-details-nosidebar.html">Blog Details Nosidebar</a></li>
-                                            <li><a href="blog-details-full-img.html">Blog Details Full Image</a></li>
+                                            <li><a href="blog.php">Blog Standard</a></li>
+                                            <li><a href="blog-masonary.php">Blog Masonary</a></li>
+                                            <li><a href="blog-list.php">Blog List</a></li>
+                                            <li><a href="blog-details.php">Blog Details</a></li>
+                                            <li><a href="blog-details-video.php">Blog Details Video</a></li>
+                                            <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
+                                            <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
+                                            <li><a href="blog-details-full-img.php">Blog Details Full Image</a></li>
                                         </ul>
+                                    </li> -->
+                                    <li>
+                                        <a href="contact.php">Contact</a>
                                     </li>
                                     <li>
-                                        <a href="contact.html">Contact</a>
+                                        <a href="team.php">Team</a>
                                     </li>
                                 </ul>
                             </nav>
                         </div>
-                        <div class="col-auto">
+                        <!-- <div class="col-auto">
                             <div class="header-button">
                                 <button type="button" class="simple-icon searchBoxToggler"><i class="far fa-search"></i></button>
                                 <button type="button" class="simple-icon d-none d-lg-block cartToggler">
                                     <i class="far fa-cart-shopping"></i>
                                     <span class="badge">5</span>
                                 </button>
-                                <a href="#" class="icon-btn sideMenuToggler d-none d-lg-block"><i class="far fa-bars"></i></a>
                                 <button type="button" class="th-menu-toggle d-block d-lg-none"><i class="far fa-bars"></i></button>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header><!--==============================
+Blog Area  
+==============================-->
+    <section class="space">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 mb-4 mb-xl-0">
+                    <div class="row gy-4">
+                        <div class="dark-theme img-overlay2">
+                            <div class="blog-style3">
+                                <div class="blog-img">
+                                    <img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="blog image">
+                                </div>
+                                <div class="blog-content">
+                                    <a data-theme-color="#007BFF" href="blog.php" class="category">Sejarah Otomotif</a>
+                                    <h3 class="box-title-30"><a class="hover-line" href="blog-details.php">Peluncuran Mobil Konsep Terbaru dari TESLA Mengulas Desain Futuristik dan Teknologi Canggih</a></h3>
+                                    <div class="blog-meta">
+                                        <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>21 Mar, 2024</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-xl-6">
+                    <div class="row gy-4">
+                        <div class="col-xl-6 col-md-6 dark-theme img-overlay2">
+                            <div class="blog-style3">
+                                <div class="blog-img">
+                                    <img src="assets/img/gambar/auto-2179220_1920.jpg" alt="blog image">
+                                </div>
+                                <div class="blog-content">
+                                    <a data-theme-color="#E8137D" href="blog.php" class="category">Mobil</a>
+                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details.php">Mengulas Performa Mobil Sport Terbaru: Tes Lapangan di Sirkuit Terkenal</a></h3>
+                                    <div class="blog-meta">
+                                        <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>29 Mar, 2024</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-md-6 dark-theme img-overlay2">
+                            <div class="blog-style3">
+                                <div class="blog-img">
+                                    <img src="assets/img/gambar/connor-wang-3ttFTqPQs5A-unsplash.jpg" alt="blog image">
+                                </div>
+                                <div class="blog-content">
+                                    <a data-theme-color="#007BFF" href="blog.php" class="category">Teknologi Otomotif</a>
+                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details.php">Sistem Hibrida Plug-in: Solusi Efisien untuk Mobilitas Berkelanjutan di Kota</a></h3>
+                                    <div class="blog-meta">
+                                        <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>19 Mar, 2024</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-md-6 dark-theme img-overlay2">
+                            <div class="blog-style3">
+                                <div class="blog-img">
+                                    <img src="assets/img/gambar/dan-gold-N7RiDzfF2iw-unsplash.jpg" alt="blog image">
+                                </div>
+                                <div class="blog-content">
+                                    <a data-theme-color="#8750A6" href="blog.php" class="category">Industri Otomotif</a>
+                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details.php">Kecerdasan Buatan dalam Mobil: Bagaimana AI Membantu Meningkatkan Keselamatan dan Kinerja Kendaraan</a></h3>
+                                    <div class="blog-meta">
+                                        <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>24 Mar, 2024</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-md-6 dark-theme img-overlay2">
+                            <div class="blog-style3">
+                                <div class="blog-img">
+                                    <img src="assets/img/gambar/dhiva-krishna-X16zXcbxU4U-unsplash.jpg" alt="blog image">
+                                </div>
+                                <div class="blog-content">
+                                    <a data-theme-color="#4E4BD0" href="blog.php" class="category">Acara Otomotif</a>
+                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details.php">Petualangan Road Trip Terbaik di Amerika Serikat: Rute Pilihan untuk Menjelajahi Keindahan Alam dengan Kendaraan Anda</a></h3>
+                                    <div class="blog-meta">
+                                        <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </header><!--==============================
-News Area 
+    </section><!--==============================
+Blog Area  
 ==============================-->
-    <div>
+    <!-- <section class="">
         <div class="container">
-            <div class="news-area">
-                <div class="title">Breaking News :</div>
-                <div class="news-wrap">
-                    <div class="row slick-marquee">
-                        <div class="col-auto">
-                            <a href="blog-details.html" class="breaking-news">Relaxation redefined, your beach resort sanctuary.</a>
-                        </div>
-                        <div class="col-auto">
-                            <a href="blog-details.html" class="breaking-news">From health to fashion, lifestyle news curated.</a>
-                        </div>
-                        <div class="col-auto">
-                            <a href="blog-details.html" class="breaking-news">Sun, sand, and luxury at our resort</a>
-                        </div>
-                        <div class="col-auto">
-                            <a href="blog-details.html" class="breaking-news">Relaxation redefined, your beach resort sanctuary.</a>
-                        </div>
+            <div class="row">
+                <div class="col-xl-8">
+                    <h2 class="sec-title has-line">Trending News</h2>
+                </div>
+                <div class="col-xl-4">
+                    <div class="d-none d-xl-block">
+                        <h2 class="sec-title has-line">Trending This Week</h2>
                     </div>
                 </div>
             </div>
-        </div>
-    </div><!--==============================
-Blog Area  
-==============================-->
-    <section class="space">
-        <div class="container">
             <div class="row">
                 <div class="col-xl-3">
                     <div class="row gy-4">
                         <div class="col-xl-12 col-sm-6 border-blog">
                             <div class="blog-style1">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog_1_5.jpg" alt="blog image">
-                                    <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
+                                    <img src="assets/img/blog/blog_1_15.jpg" alt="blog image">
+                                    <a data-theme-color="#00D084" href="blog.php" class="category">Lifestyle</a>
                                 </div>
-                                <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Leadership for the People By the people</a></h3>
+                                <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Balance harmony and joy in Every lifestyle.</a></h3>
                                 <div class="blog-meta">
-                                    <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>28 Mar, 2023</a>
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                                    <a href="blog.php"><i class="fal fa-calendar-days"></i>26 Mar, 2024</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-12 col-sm-6 border-blog">
                             <div class="blog-style1">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog_1_6.jpg" alt="blog image">
-                                    <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
+                                    <img src="assets/img/blog/blog_1_16.jpg" alt="blog image">
+                                    <a data-theme-color="#00D084" href="blog.php" class="category">Lifestyle</a>
                                 </div>
-                                <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Game on! Stay ahead withn Sports updates</a></h3>
+                                <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Design a lifestyle that the radiates Happiness.</a></h3>
                                 <div class="blog-meta">
-                                    <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>20 Mar, 2023</a>
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                                    <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 mt-4 mt-xl-0">
+                <div class="col-xl-5 mt-4 mt-xl-0">
                     <div class="">
                         <div class="blog-style1 style-big">
                             <div class="blog-img">
-                                <img src="assets/img/blog/blog_2_1.jpg" alt="blog image">
-                                <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
+                                <img src="assets/img/blog/blog_2_3.jpg" alt="blog image">
+                                <a data-theme-color="#FF9500" href="blog.php" class="category">Business</a>
                             </div>
-                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.html">Following the Moon, they are in Close space. choose the best</a></h3>
+                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.php">Following the Moon, they are in Close space. choose the best</a></h3>
                             <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>25 Mar, 2023</a>
+                                <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>23 Mar, 2024</a>
                             </div>
                         </div>
                     </div>
 
                 </div>
-                <div class="col-xl-3 mt-35 mt-xl-0">
-                    <div class="nav tab-menu indicator-active" role="tablist">
-                        <button class="tab-btn active" id="nav-one-tab" data-bs-toggle="tab" data-bs-target="#nav-one" type="button" role="tab" aria-controls="nav-one" aria-selected="true">Top News</button>
-                        <button class="tab-btn" id="nav-two-tab" data-bs-toggle="tab" data-bs-target="#nav-two" type="button" role="tab" aria-controls="nav-two" aria-selected="false">Recent News</button>
+                <div class="col-xl-4 mt-35 mt-xl-0">
+                    <div class="d-block d-xl-none">
+                        <h2 class="sec-title has-line">Trending This Week</h2>
                     </div>
-                    <div class="tab-content">
-                        <!-- Single item -->
-                        <div class="tab-pane fade show active" id="nav-one" role="tabpanel" aria-labelledby="nav-one-tab">
-                            <div class="row gy-4">
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_1.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
-                                            <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Stay informed, Navigate the world</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>14 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
+                    <div class="row gy-4">
+                        <div class="col-xl-12 col-md-6 border-blog">
+                            <div class="blog-style2">
+                                <div class="blog-img">
+                                    <img src="assets/img/blog/blog_3_2_1.jpg" alt="blog image">
                                 </div>
-
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#007BFF" href="blog.html" class="category">Travel</a>
-                                            <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Your beach resort Sanctuary.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>22 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_3.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#00D084" href="blog.html" class="category">Life Style</a>
-                                            <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Style your life news For modern living</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>30 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_4.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
-                                            <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Score big with the Latest sports news.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>11 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
+                                <div class="blog-content">
+                                    <a data-theme-color="#4E4BD0" href="blog.php" class="category">Sports</a>
+                                    <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Fast breaks, slam dunks Basketball thrills.</a></h3>
+                                    <div class="blog-meta">
+                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
                                     </div>
                                 </div>
 
                             </div>
                         </div>
-                        <!-- Single item -->
-                        <div class="tab-pane fade" id="nav-two" role="tabpanel" aria-labelledby="nav-two-tab">
-                            <div class="row gy-4">
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_3.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#00D084" href="blog.html" class="category">Life Style</a>
-                                            <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Style your life news For modern living</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>16 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
+                        <div class="col-xl-12 col-md-6 border-blog">
+                            <div class="blog-style2">
+                                <div class="blog-img">
+                                    <img src="assets/img/blog/blog_3_2_2.jpg" alt="blog image">
+                                </div>
+                                <div class="blog-content">
+                                    <a data-theme-color="#00D084" href="blog.php" class="category">Health</a>
+                                    <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Life, a canvas, paint your Masterpiece.</a></h3>
+                                    <div class="blog-meta">
+                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>21 Mar, 2024</a>
                                     </div>
                                 </div>
 
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_4.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
-                                            <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Score big with the Latest sports news.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>26 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
+                            </div>
+                        </div>
+                        <div class="col-xl-12 col-md-6 border-blog">
+                            <div class="blog-style2">
+                                <div class="blog-img">
+                                    <img src="assets/img/blog/blog_3_2_3.jpg" alt="blog image">
+                                </div>
+                                <div class="blog-content">
+                                    <a data-theme-color="#E7473C" href="blog.php" class="category">Fitness</a>
+                                    <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Fuel your fire, embrace Fitness goals.</a></h3>
+                                    <div class="blog-meta">
+                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>27 Mar, 2024</a>
                                     </div>
                                 </div>
 
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_5.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#868101" href="blog.html" class="category">Action</a>
-                                            <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Adventure awaits, seize the moment</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>11 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-12 col-md-6 border-blog">
+                            <div class="blog-style2">
+                                <div class="blog-img">
+                                    <img src="assets/img/blog/blog_3_2_4.jpg" alt="blog image">
                                 </div>
-
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_6.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#868101" href="blog.html" class="category">Thriller</a>
-                                            <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">brace yourself for thrilling adventure.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>22 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
+                                <div class="blog-content">
+                                    <a data-theme-color="#59C2D6" href="blog.php" class="category">Fashion</a>
+                                    <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Fashion is an art, express Yourself beautifully</a></h3>
+                                    <div class="blog-meta">
+                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>10 Mar, 2024</a>
                                     </div>
                                 </div>
 
@@ -690,343 +670,233 @@ Blog Area
                 </div>
             </div>
         </div>
-    </section>
-    <div class="">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col">
-                    <h2 class="sec-title has-line">Trending News</h2>
-                </div>
-                <div class="col-auto">
-                    <div class="sec-btn">
-                        <div class="icon-box">
-                            <button data-slick-prev="#blog-slide1" class="slick-arrow default"><i class="far fa-arrow-left"></i></button>
-                            <button data-slick-next="#blog-slide1" class="slick-arrow default"><i class="far fa-arrow-right"></i></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row th-carousel" id="blog-slide1" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="2">
-                <div class="col-sm-6 col-xl-4">
-                    <div class="blog-style1">
-                        <div class="blog-img">
-                            <img src="assets/img/blog/blog_1_1.jpg" alt="blog image">
-                            <a data-theme-color="#00D084" href="blog.html" class="category">Lifestyle</a>
-                        </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Balance harmony and joy in Every lifestyle.</a></h3>
-                        <div class="blog-meta">
-                            <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>27 Mar, 2023</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-xl-4">
-                    <div class="blog-style1">
-                        <div class="blog-img">
-                            <img src="assets/img/blog/blog_1_2.jpg" alt="blog image">
-                            <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
-                        </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Power to the people for a Better future!</a></h3>
-                        <div class="blog-meta">
-                            <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>30 Mar, 2023</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-xl-4">
-                    <div class="blog-style1">
-                        <div class="blog-img">
-                            <img src="assets/img/blog/blog_1_3.jpg" alt="blog image">
-                            <a data-theme-color="#E7473C" href="blog.html" class="category">Fitness</a>
-                        </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Fitness the key to vitality and Well-being.</a></h3>
-                        <div class="blog-meta">
-                            <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>24 Mar, 2023</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-xl-4">
-                    <div class="blog-style1">
-                        <div class="blog-img">
-                            <img src="assets/img/blog/blog_1_4.jpg" alt="blog image">
-                            <a data-theme-color="#00D084" href="blog.html" class="category">Health</a>
-                        </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Embrace bump and Victory volleyball style.</a></h3>
-                        <div class="blog-meta">
-                            <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>26 Mar, 2023</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-xl-4">
-                    <div class="blog-style1">
-                        <div class="blog-img">
-                            <img src="assets/img/blog/blog_1_5.jpg" alt="blog image">
-                            <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
-                        </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Leadership for the People By the people</a></h3>
-                        <div class="blog-meta">
-                            <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>22 Mar, 2023</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div><!--==============================
-Blog Area  
-==============================-->
-    <section class="space">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col">
-                    <h2 class="sec-title has-line">Technology News</h2>
-                </div>
-                <div class="col-auto">
-                    <div class="sec-btn">
-                        <div class="filter-menu filter-menu-active1">
-                            <button data-filter=".game" class="tab-btn active" type="button">Games</button>
-                            <button data-filter=".robotic" class="tab-btn" type="button">Robotic</button>
-                            <button data-filter=".electric" class="tab-btn" type="button">Electric</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="filter-active-cat1">
-                <div class="row filter-item active-filter game">
-                    <div class="col-xl-6 mb-35 mb-xl-0">
-                        <div class="">
-                            <div class="blog-style1 style-big">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_2_2.jpg" alt="blog image">
-                                    <a data-theme-color="#007BFF" href="blog.html" class="category">Technology</a>
-                                </div>
-                                <h3 class="box-title-30"><a class="hover-line" href="blog-details.html">Following the Moon, they are in Close space. choose the best</a></h3>
-                                <div class="blog-meta">
-                                    <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>22 Mar, 2023</a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="row gy-4">
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_7.jpg" alt="blog image">
-                                        <a data-theme-color="#007BFF" href="blog.html" class="category">Technology</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Game on! Stay ahead with Sports updates</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>14 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_8.jpg" alt="blog image">
-                                        <a data-theme-color="#FF9500" href="blog.html" class="category">Electric</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Electrify your world, embrace Sustainable energy.</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>19 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_9.jpg" alt="blog image">
-                                        <a data-theme-color="#00D084" href="blog.html" class="category">Game</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Level up your world, embrace Gaming passion</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>30 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_10.jpg" alt="blog image">
-                                        <a data-theme-color="#4E4BD0" href="blog.html" class="category">Robotic</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Robotic precision, shaping a World of possibilities.</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>15 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row filter-item robotic">
-                    <div class="col-xl-6 mb-35 mb-xl-0">
-                        <div class="">
-                            <div class="blog-style1 style-big">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_2_2.jpg" alt="blog image">
-                                    <a data-theme-color="#007BFF" href="blog.html" class="category">Technology</a>
-                                </div>
-                                <h3 class="box-title-30"><a class="hover-line" href="blog-details.html">Following the Moon, they are in Close space. choose the best</a></h3>
-                                <div class="blog-meta">
-                                    <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>26 Mar, 2023</a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="row gy-4">
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_6.jpg" alt="blog image">
-                                        <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Game on! Stay ahead withn Sports updates</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>12 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_7.jpg" alt="blog image">
-                                        <a data-theme-color="#007BFF" href="blog.html" class="category">Technology</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Game on! Stay ahead with Sports updates</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>10 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_8.jpg" alt="blog image">
-                                        <a data-theme-color="#FF9500" href="blog.html" class="category">Electric</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Electrify your world, embrace Sustainable energy.</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>13 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_9.jpg" alt="blog image">
-                                        <a data-theme-color="#00D084" href="blog.html" class="category">Game</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Level up your world, embrace Gaming passion</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>11 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row filter-item electric">
-                    <div class="col-xl-6 mb-35 mb-xl-0">
-                        <div class="">
-                            <div class="blog-style1 style-big">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_2_2.jpg" alt="blog image">
-                                    <a data-theme-color="#007BFF" href="blog.html" class="category">Technology</a>
-                                </div>
-                                <h3 class="box-title-30"><a class="hover-line" href="blog-details.html">Following the Moon, they are in Close space. choose the best</a></h3>
-                                <div class="blog-meta">
-                                    <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>22 Mar, 2023</a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="row gy-4">
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_5.jpg" alt="blog image">
-                                        <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Leadership for the People By the people</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>12 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_6.jpg" alt="blog image">
-                                        <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Game on! Stay ahead withn Sports updates</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>10 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_7.jpg" alt="blog image">
-                                        <a data-theme-color="#007BFF" href="blog.html" class="category">Technology</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Game on! Stay ahead with Sports updates</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>16 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-sm-6 border-blog two-column">
-                                <div class="blog-style1">
-                                    <div class="blog-img">
-                                        <img src="assets/img/blog/blog_1_8.jpg" alt="blog image">
-                                        <a data-theme-color="#FF9500" href="blog.html" class="category">Electric</a>
-                                    </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.html">Electrify your world, embrace Sustainable energy.</a></h3>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>21 Mar, 2023</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <div class="container">
+    </section> -->
+    <div class="container space-top">
         <a href="https://themeforest.net/user/themeholy/portfolio">
-            <img src="assets/img/ads/ads_1.jpg" alt="ads" class="w-100">
+            <img src="assets/img/gambar/1.png" alt="ads" class="w-100">
         </a>
     </div><!--==============================
 Blog Area  
 ==============================-->
     <section class="space">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col">
+                    <h2 class="sec-title has-line">Trending Hari Ini</h2>
+                </div>
+                <div class="col-auto">
+                    <div class="sec-btn">
+                        <div class="filter-menu filter-menu-active">
+                            <button data-filter="*" class="tab-btn active" type="button">ALL</button>
+                            <button data-filter=".cat1" class="tab-btn" type="button">Mobil</button>
+                            <button data-filter=".cat2" class="tab-btn" type="button">Motor</button>
+                            <button data-filter=".cat3" class="tab-btn" type="button">Teknologi Otomotif</button>
+                            <button data-filter=".cat4" class="tab-btn" type="button">Industri Otomotif</button>
+                            <button data-filter=".cat5" class="tab-btn" type="button">Acara Otomotif</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row gy-30 filter-active">
+                <div class="col-lg-6 two-column filter-item cat1">
+                    <div class="blog-style4">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="blog image">
+                        </div>
+                        <div class="blog-content">
+                            <a data-theme-color="#59C2D6" href="blog.php" class="category">Mobil</a>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Toyota Meluncurkan SUV Hibrida Terbaru: Menyambut Toyota RAV4 2024 dengan Teknologi Canggih</a></h3>
+                            <div class="blog-meta">
+                                <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
+                            </div>
+                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 two-column filter-item cat2">
+                    <div class="blog-style4">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/jaromir-kavan-XuDPnpox8tc-unsplash.jpg" alt="blog image">
+                        </div>
+                        <div class="blog-content">
+                            <a data-theme-color="#8750A6" href="blog.php" class="category">Motor</a>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Yamaha R1M 2024: Mengintip Performa dan Inovasi pada Motor Super Sport Terbaru dari Yamaha</a></h3>
+                            <div class="blog-meta">
+                                <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>16 Mar, 2024</a>
+                            </div>
+                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 two-column filter-item cat3">
+                    <div class="blog-style4">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/lance-asper-N9Pf2J656aQ-unsplash.jpg" alt="blog image">
+                        </div>
+                        <div class="blog-content">
+                            <a data-theme-color="#007BFF" href="blog.php" class="category">Teknologi Otomotif</a>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Perkembangan Mobil Otonom: Apa yang Harus Diketahui tentang Teknologi Self-Driving Level 4</a></h3>
+                            <div class="blog-meta">
+                                <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>27 Mar, 2024</a>
+                            </div>
+                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 two-column filter-item cat4">
+                    <div class="blog-style4">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash.jpg" alt="blog image">
+                        </div>
+                        <div class="blog-content">
+                            <a data-theme-color="#8750A6" href="blog.php" class="category">Industri Otomotif</a>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Konsolidasi di Dunia Otomotif: Meninjau Penggabungan Antara General Motors dan Ford untuk Meningkatkan Efisiensi Produksi</a></h3>
+                            <div class="blog-meta">
+                                <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>22 Mar, 2024</a>
+                            </div>
+                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 two-column filter-item cat5">
+                    <div class="blog-style4">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/nicholas-green-nPz8akkUmDI-unsplash.jpg" alt="blog image">
+                        </div>
+                        <div class="blog-content">
+                            <a data-theme-color="#007BFF" href="blog.php" class="category">Acara Otomotif</a>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Formula 1 2024: Pratinjau Musim dengan Mengulas Aturan Baru dan Persaingan Antar Tim yang Bersemangat</a></h3>
+                            <div class="blog-meta">
+                                <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>24 Mar, 2024</a>
+                            </div>
+                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 two-column filter-item cat1">
+                    <div class="blog-style4">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/samuele-errico-piccarini-qAc3UNF8Hm4-unsplash.jpg" alt="blog image">
+                        </div>
+                        <div class="blog-content">
+                            <a data-theme-color="#59C2D6" href="blog.php" class="category">Mobil</a>
+                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mazda MX-5: Memperingati 30 Tahun Kecantikan Klasik dari Roadster Legendaris</a></h3>
+                            <div class="blog-meta">
+                                <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
+                            </div>
+                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <div class="space dark-theme bg-title-dark" >
+        <div class="container">
+            <h2 class="sec-title has-line text-center">Pilihan Editor</h2>
+            <div class="row gy-4 mb-4">
+                <div class="col-lg-6">
+                    <div class="blog-style3">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/shay-5n2EemBYQm4-unsplash.jpg" alt="blog image">
+                        </div>
+                        <div class="blog-content">
+                            <a data-theme-color="#4E4BD0" href="blog.php" class="category">Mobil</a>
+                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.php">Jelajahi Mobil Listrik Terbaru: Menyimak Peluncuran Audi e-tron GT dan Fitur-Fitur Modernnya</a></h3>
+                            <div class="blog-meta">
+                                <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>24 Mar, 2024</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="blog-style3">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/why-kei-8e2gal_GIE8-unsplash.jpg" alt="blog image">
+                        </div>
+                        <div class="blog-content">
+                            <a data-theme-color="#019D9E" href="blog.php" class="category">Motor</a>
+                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.php">Suzuki GSX-R1000 2024 vs Kawasaki Ninja ZX-10R 2024: Perbandingan Kinerja antara Dua Motor Sport Teratas</a></h3>
+                            <div class="blog-meta">
+                                <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row gy-4">
+                <div class="col-xl-3 col-lg-4 col-sm-6">
+                    <div class="blog-style1">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="blog image">
+                            <a data-theme-color="#019D9E" href="blog.php" class="category">Teknologi Otomotif</a>
+                        </div>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mengintip Perkembangan Terbaru dalam Pengisian Cepat Mobil Listrik: Solusi untuk Meningkatkan Ketersediaan Infrastruktur Pengisian</a></h3>
+                        <div class="blog-meta">
+                            <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-sm-6">
+                    <div class="blog-style1">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/auto-2179220_1920.jpg" alt="blog image">
+                            <a data-theme-color="#8750A6" href="blog.php" class="category">Acara Otomotif</a>
+                        </div>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">MotoGP Assen: Mengintip Sejarah dan Kenangan di Balik Sirkuit MotoGP Terkemuka di Belanda</a></h3>
+                        <div class="blog-meta">
+                            <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>24 Mar, 2024</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-sm-6">
+                    <div class="blog-style1">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/connor-wang-3ttFTqPQs5A-unsplash.jpg" alt="blog image">
+                            <a data-theme-color="#019D9E" href="blog.php" class="category">Industri Otomotif</a>
+                        </div>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mengintip Perkembangan Terbaru di Pabrik Otomotif: Implementasi Robotika dan Automasi untuk Meningkatkan Efisiensi Produksi</a></h3>
+                        <div class="blog-meta">
+                            <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>23 Mar, 2024</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-sm-6">
+                    <div class="blog-style1">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/dan-gold-N7RiDzfF2iw-unsplash.jpg" alt="blog image">
+                            <a data-theme-color="#019D9E" href="blog.php" class="category">Mobil</a>
+                        </div>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mazda MX-5: Memperingati 30 Tahun Kecantikan Klasik dari Roadster Legendaris</a></h3>
+                        <div class="blog-meta">
+                            <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>17 Mar, 2024</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--==============================
+Blog Area  
+==============================-->
+    <!-- <section class="space">
         <div class="container">
             <div class="row">
                 <div class="col-xl-8">
@@ -1035,615 +905,159 @@ Blog Area
                         <div class="col-sm-6 border-blog two-column">
                             <div class="blog-style1">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog_4_1.jpg" alt="blog image">
-                                    <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
+                                    <img src="assets/img/blog/blog_4_5.jpg" alt="blog image">
+                                    <a data-theme-color="#019D9E" href="blog.php" class="category">Travels</a>
                                 </div>
-                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">Relaxation redefined, your beach Resort sanctuary</a></h3>
+                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Relaxation redefined, your beach Resort sanctuary</a></h3>
                                 <div class="blog-meta">
-                                    <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>14 Mar, 2023</a>
+                                    <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                                    <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 border-blog two-column">
                             <div class="blog-style1">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog_4_2.jpg" alt="blog image">
-                                    <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
+                                    <img src="assets/img/blog/blog_4_6.jpg" alt="blog image">
+                                    <a data-theme-color="#59C2D6" href="blog.php" class="category">Fashion</a>
                                 </div>
-                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">Game on! Embrace the spirit of Competition them</a></h3>
+                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Fashion fuels dreams, defines Your identity.</a></h3>
                                 <div class="blog-meta">
-                                    <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>27 Mar, 2023</a>
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                                    <a href="blog.php"><i class="fal fa-calendar-days"></i>26 Mar, 2024</a>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 mt-35 mt-xl-0">
-                    <div class="nav tab-menu indicator-active" role="tablist">
-                        <button class="tab-btn active" id="nav2-one-tab" data-bs-toggle="tab" data-bs-target="#nav2-one" type="button" role="tab" aria-controls="nav2-one" aria-selected="true">Tranding</button>
-                        <button class="tab-btn" id="nav2-two-tab" data-bs-toggle="tab" data-bs-target="#nav2-two" type="button" role="tab" aria-controls="nav2-two" aria-selected="false">Recent</button>
-                        <button class="tab-btn" id="nav2-three-tab" data-bs-toggle="tab" data-bs-target="#nav2-three" type="button" role="tab" aria-controls="nav2-three" aria-selected="false">Popular</button>
-                    </div>
-                    <div class="tab-content">
-                        <!-- Single item -->
-                        <div class="tab-pane fade show active" id="nav2-one" role="tabpanel" aria-labelledby="nav2-one-tab">
-                            <div class="row gy-4">
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2_1.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
-                                            <h3 class="box-title-20"><a class="hover-line" href="blog-details.html">Fast breaks, slam dunks Basketball thrills.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>20 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2_2.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#00D084" href="blog.html" class="category">Health</a>
-                                            <h3 class="box-title-20"><a class="hover-line" href="blog-details.html">Life, a canvas, paint your Masterpiece.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>22 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2_3.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#E7473C" href="blog.html" class="category">Fitness</a>
-                                            <h3 class="box-title-20"><a class="hover-line" href="blog-details.html">Fuel your fire, embrace Fitness goals.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>24 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Single item -->
-                        <div class="tab-pane fade" id="nav2-two" role="tabpanel" aria-labelledby="nav2-two-tab">
-                            <div class="row gy-4">
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2_2.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#00D084" href="blog.html" class="category">Health</a>
-                                            <h3 class="box-title-20"><a class="hover-line" href="blog-details.html">Life, a canvas, paint your Masterpiece.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>15 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2_3.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#E7473C" href="blog.html" class="category">Fitness</a>
-                                            <h3 class="box-title-20"><a class="hover-line" href="blog-details.html">Fuel your fire, embrace Fitness goals.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>22 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2_4.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#59C2D6" href="blog.html" class="category">Fashion</a>
-                                            <h3 class="box-title-20"><a class="hover-line" href="blog-details.html">Fashion is an art, express Yourself beautifully</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>29 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Single item -->
-                        <div class="tab-pane fade" id="nav2-three" role="tabpanel" aria-labelledby="nav2-three-tab">
-                            <div class="row gy-4">
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2_3.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#E7473C" href="blog.html" class="category">Fitness</a>
-                                            <h3 class="box-title-20"><a class="hover-line" href="blog-details.html">Fuel your fire, embrace Fitness goals.</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>16 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2_4.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#59C2D6" href="blog.html" class="category">Fashion</a>
-                                            <h3 class="box-title-20"><a class="hover-line" href="blog-details.html">Fashion is an art, express Yourself beautifully</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>19 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="col-xl-12 col-md-6 border-blog">
-                                    <div class="blog-style2">
-                                        <div class="blog-img">
-                                            <img src="assets/img/blog/blog_3_2_5.jpg" alt="blog image">
-                                        </div>
-                                        <div class="blog-content">
-                                            <a data-theme-color="#E8137D" href="blog.html" class="category">Sports</a>
-                                            <h3 class="box-title-20"><a class="hover-line" href="blog-details.html">Tune in, turn up, and let the Music speak</a></h3>
-                                            <div class="blog-meta">
-                                                <a href="blog.html"><i class="fal fa-calendar-days"></i>25 Mar, 2023</a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <div class="space dark-theme bg-title-dark">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col">
-                    <h2 class="sec-title has-line">Latest Video</h2>
-                </div>
-                <div class="col-auto">
-                    <div class="sec-btn">
-                        <div class="icon-box">
-                            <button data-slick-prev="#blog-video-slide1" class="slick-arrow default"><i class="far fa-arrow-left"></i></button>
-                            <button data-slick-next="#blog-video-slide1" class="slick-arrow default"><i class="far fa-arrow-right"></i></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row th-carousel" id="blog-video-slide1" data-slide-show="3" data-lg-slide-show="3" data-md-slide-show="3" data-sm-slide-show="1" data-center-mode="true" data-xl-center-mode="true" data-ml-center-mode="true" data-lg-center-mode="true" data-md-center-mode="true" data-variable-width="true">
-                <div class="col-auto video-center-mode">
-                    <div class="blog-style3">
-                        <div class="blog-img">
-                            <img src="assets/img/blog/blog_5_1.jpg" alt="blog image">
-                            <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn popup-video"><i class="fas fa-play"></i></a>
-                        </div>
-                        <div class="blog-content">
-                            <a data-theme-color="#4E4BD0" href="blog.html" class="category">Fashion</a>
-                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.html">Cat-tastic updates, keeping you feline fine</a></h3>
-                            <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>24 Mar, 2023</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto video-center-mode">
-                    <div class="blog-style3">
-                        <div class="blog-img">
-                            <img src="assets/img/blog/blog_5_2.jpg" alt="blog image">
-                            <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn popup-video"><i class="fas fa-play"></i></a>
-                        </div>
-                        <div class="blog-content">
-                            <a data-theme-color="#4E4BD0" href="blog.html" class="category">Fashion</a>
-                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.html">Fashion spotlight, updates on The modeling scene</a></h3>
-                            <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>18 Mar, 2023</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto video-center-mode">
-                    <div class="blog-style3">
-                        <div class="blog-img">
-                            <img src="assets/img/blog/blog_5_3.jpg" alt="blog image">
-                            <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn popup-video"><i class="fas fa-play"></i></a>
-                        </div>
-                        <div class="blog-content">
-                            <a data-theme-color="#4E4BD0" href="blog.html" class="category">Fashion</a>
-                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.html">Style, grace, & Glamour In model news portal</a></h3>
-                            <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>27 Mar, 2023</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto video-center-mode">
-                    <div class="blog-style3">
-                        <div class="blog-img">
-                            <img src="assets/img/blog/blog_5_4.jpg" alt="blog image">
-                            <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn popup-video"><i class="fas fa-play"></i></a>
-                        </div>
-                        <div class="blog-content">
-                            <a data-theme-color="#4E4BD0" href="blog.html" class="category">Fashion</a>
-                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.html">Fashion-forward Where trends and Confidence collide</a></h3>
-                            <div class="blog-meta">
-                                <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                <a href="blog.html"><i class="fal fa-calendar-days"></i>17 Mar, 2023</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div><!--==============================
-Blog Area  
-==============================-->
-    <section class="space">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-9">
-                    <div class="row align-items-center">
-                        <div class="col">
-                            <h2 class="sec-title has-line">Popular News</h2>
-                        </div>
-                        <div class="col-auto">
-                            <div class="sec-btn">
-                                <div class="filter-menu filter-menu-active">
-                                    <button data-filter="*" class="tab-btn active" type="button">ALL</button>
-                                    <button data-filter=".cat1" class="tab-btn" type="button">Travel</button>
-                                    <button data-filter=".cat2" class="tab-btn" type="button">Politics</button>
-                                    <button data-filter=".cat3" class="tab-btn" type="button">Fitness</button>
-                                    <button data-filter=".cat4" class="tab-btn" type="button">Fashion</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="filter-active">
-                        <div class="border-blog2 filter-item cat1">
-                            <div class="blog-style4">
+                        <div class="col-sm-6 border-blog two-column">
+                            <div class="blog-style1">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog_6_1.jpg" alt="blog image">
+                                    <img src="assets/img/blog/blog_4_7.jpg" alt="blog image">
+                                    <a data-theme-color="#00D084" href="blog.php" class="category">Lifestyle</a>
                                 </div>
-                                <div class="blog-content">
-                                    <a data-theme-color="#007BFF" href="blog.html" class="category">Travel</a>
-                                    <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">From catwalk to campaigns, modeling news revealed Vibrant</a></h3>
-                                    <p class="blog-text">Quisque eget ex rutrum, consequat odio in, tempor purus. Mauris neque quam, Tellentesque sit amet rutrum ut, gravida sit amet felis.</p>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>21 Mar, 2023</a>
-                                    </div>
+                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Life, a canvas, paint your goal Masterpiece.</a></h3>
+                                <div class="blog-meta">
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                                    <a href="blog.php"><i class="fal fa-calendar-days"></i>29 Mar, 2024</a>
                                 </div>
-
                             </div>
                         </div>
-
-                        <div class="border-blog2 filter-item cat4">
-                            <div class="blog-style4">
+                        <div class="col-sm-6 border-blog two-column">
+                            <div class="blog-style1">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog_6_2.jpg" alt="blog image">
+                                    <img src="assets/img/blog/blog_4_8.jpg" alt="blog image">
+                                    <a data-theme-color="#59C2D6" href="blog.php" class="category">Fashion</a>
                                 </div>
-                                <div class="blog-content">
-                                    <a data-theme-color="#59C2D6" href="blog.html" class="category">Fashion</a>
-                                    <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">Explore, wander, immerse: let your travels paint stories of life</a></h3>
-                                    <p class="blog-text">Quisque eget ex rutrum, consequat odio in, tempor purus. Mauris neque quam, Tellentesque sit amet rutrum ut, gravida sit amet felis.</p>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>30 Mar, 2023</a>
-                                    </div>
+                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Fashion speaks volumes, wear Your confidence.</a></h3>
+                                <div class="blog-meta">
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                                    <a href="blog.php"><i class="fal fa-calendar-days"></i>11 Mar, 2024</a>
                                 </div>
-
                             </div>
                         </div>
-
-                        <div class="border-blog2 filter-item cat2">
-                            <div class="blog-style4">
+                        <div class="col-sm-6 border-blog two-column">
+                            <div class="blog-style1">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog_6_3.jpg" alt="blog image">
+                                    <img src="assets/img/blog/blog_4_9.jpg" alt="blog image">
+                                    <a data-theme-color="#4E4BD0" href="blog.php" class="category">Sports</a>
                                 </div>
-                                <div class="blog-content">
-                                    <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
-                                    <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">Vote with conviction, champion change Shape the destiny of politics</a></h3>
-                                    <p class="blog-text">Quisque eget ex rutrum, consequat odio in, tempor purus. Mauris neque quam, Tellentesque sit amet rutrum ut, gravida sit amet felis.</p>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>15 Mar, 2023</a>
-                                    </div>
+                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Embrace the challenge, conquer Sports goals.</a></h3>
+                                <div class="blog-meta">
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                                    <a href="blog.php"><i class="fal fa-calendar-days"></i>23 Mar, 2024</a>
                                 </div>
-
                             </div>
                         </div>
-
-                        <div class="border-blog2 filter-item cat1">
-                            <div class="blog-style4">
+                        <div class="col-sm-6 border-blog two-column">
+                            <div class="blog-style1">
                                 <div class="blog-img">
-                                    <img src="assets/img/blog/blog_6_4.jpg" alt="blog image">
+                                    <img src="assets/img/blog/blog_4_10.jpg" alt="blog image">
+                                    <a data-theme-color="#E8137D" href="blog.php" class="category">Music</a>
                                 </div>
-                                <div class="blog-content">
-                                    <a data-theme-color="#007BFF" href="blog.html" class="category">Travel</a>
-                                    <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">From catwalk to campaigns, modeling news Revealed get popular</a></h3>
-                                    <p class="blog-text">Quisque eget ex rutrum, consequat odio in, tempor purus. Mauris neque quam, Tellentesque sit amet rutrum ut, gravida sit amet felis.</p>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>28 Mar, 2023</a>
-                                    </div>
+                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Soulful symphony, music speaks Volume of music.</a></h3>
+                                <div class="blog-meta">
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                                    <a href="blog.php"><i class="fal fa-calendar-days"></i>15 Mar, 2024</a>
                                 </div>
-
                             </div>
                         </div>
-
-                        <div class="border-blog2 filter-item cat3">
-                            <div class="blog-style4">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_6_5.jpg" alt="blog image">
-                                </div>
-                                <div class="blog-content">
-                                    <a data-theme-color="#E7473C" href="blog.html" class="category">Fitness</a>
-                                    <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">Embrace the grind, sweat, dedication Witness your fitness transformation.</a></h3>
-                                    <p class="blog-text">Quisque eget ex rutrum, consequat odio in, tempor purus. Mauris neque quam, Tellentesque sit amet rutrum ut, gravida sit amet felis.</p>
-                                    <div class="blog-meta">
-                                        <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                                        <a href="blog.html"><i class="fal fa-calendar-days"></i>25 Mar, 2023</a>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-
                     </div>
                 </div>
-                <div class="col-xl-3 mt-35 mt-xl-0 mb-10 sidebar-wrap">
+                <div class="col-xl-4 mt-35 mt-xl-0 sidebar-wrap mb-10">
+                    <h2 class="sec-title has-line">Popular News</h2>
                     <div class="sidebar-area">
-                        <div class="widget mb-30">
-                            <div class="widget-ads">
-                                <a href="https://themeforest.net/user/themeholy/portfolio">
-                                    <img class="w-100" src="assets/img/ads/siderbar_ads_1.jpg" alt="ads">
-                                </a>
+                        <div class="mb-30">
+                            <div class="dark-theme img-overlay2">
+                                <div class="blog-style3">
+                                    <div class="blog-img">
+                                        <img src="assets/img/blog/blog_5_2_5.jpg" alt="blog image">
+                                    </div>
+                                    <div class="blog-content">
+                                        <a data-theme-color="#4E4BD0" href="blog.php" class="category">Fashion</a>
+                                        <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Control conquer your day with smart watch</a></h3>
+                                        <div class="blog-meta">
+                                            <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>28 Mar, 2024</a>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="widget newsletter-widget2 mb-30" data-bg-src="assets/img/bg/particle_bg_1.png">
-                            <h3 class="box-title-24">Subscribe Our Newsletter</h3>
-                            <form class="newsletter-form">
-                                <input class="form-control" type="email" placeholder="Enter Email" required="">
-                                <button type="submit" class="th-btn btn-fw">Subscribe Now</button>
-                            </form>
-                        </div>
-                        <div class="nav tab-menu indicator-active" role="tablist">
-                            <button class="tab-btn active" id="nav3-one-tab" data-bs-toggle="tab" data-bs-target="#nav3-one" type="button" role="tab" aria-controls="nav3-one" aria-selected="true">Top Rated</button>
-                            <button class="tab-btn" id="nav3-two-tab" data-bs-toggle="tab" data-bs-target="#nav3-two" type="button" role="tab" aria-controls="nav3-two" aria-selected="false">Tranding</button>
-                            <button class="tab-btn" id="nav3-three-tab" data-bs-toggle="tab" data-bs-target="#nav3-three" type="button" role="tab" aria-controls="nav3-three" aria-selected="false">Recent</button>
-                        </div>
-                        <div class="tab-content">
-                            <!-- Single item -->
-                            <div class="tab-pane fade show active" id="nav3-one" role="tabpanel" aria-labelledby="nav3-one-tab">
-                                <div class="row gy-4">
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_1.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Stay informed, Navigate the world</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>15 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
-                                        </div>
+                        <div class="row gy-4">
+                            <div class="col-xl-12 col-md-6 border-blog">
+                                <div class="blog-style2">
+                                    <div class="blog-img">
+                                        <img src="assets/img/blog/blog_3_2_5.jpg" alt="blog image">
                                     </div>
-
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_2.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#007BFF" href="blog.html" class="category">Travel</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Your beach resort Sanctuary.</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>24 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_3.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#00D084" href="blog.html" class="category">Life Style</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Style your life news For modern living</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>24 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_4.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Score big with the Latest sports news.</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>29 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
+                                    <div class="blog-content">
+                                        <a data-theme-color="#E8137D" href="blog.php" class="category">Sports</a>
+                                        <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Tune in, turn up, and let the Music speak</a></h3>
+                                        <div class="blog-meta">
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
                                         </div>
                                     </div>
 
                                 </div>
                             </div>
-                            <!-- Single item -->
-                            <div class="tab-pane fade" id="nav3-two" role="tabpanel" aria-labelledby="nav3-two-tab">
-                                <div class="row gy-4">
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_2.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#007BFF" href="blog.html" class="category">Travel</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Your beach resort Sanctuary.</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>22 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
-                                        </div>
+                            <div class="col-xl-12 col-md-6 border-blog">
+                                <div class="blog-style2">
+                                    <div class="blog-img">
+                                        <img src="assets/img/blog/blog_3_2_6.jpg" alt="blog image">
                                     </div>
-
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_3.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#00D084" href="blog.html" class="category">Life Style</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Style your life news For modern living</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>24 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_4.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Score big with the Latest sports news.</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>11 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_5.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#868101" href="blog.html" class="category">Action</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Adventure awaits, seize the moment</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>23 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
+                                    <div class="blog-content">
+                                        <a data-theme-color="#59C2D6" href="blog.php" class="category">Fashion</a>
+                                        <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Score big with the Latest sports news.</a></h3>
+                                        <div class="blog-meta">
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>25 Mar, 2024</a>
                                         </div>
                                     </div>
 
                                 </div>
                             </div>
-                            <!-- Single item -->
-                            <div class="tab-pane fade" id="nav3-three" role="tabpanel" aria-labelledby="nav3-three-tab">
-                                <div class="row gy-4">
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_3.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#00D084" href="blog.html" class="category">Life Style</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Style your life news For modern living</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>15 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
+                            <div class="col-xl-12 col-md-6 border-blog">
+                                <div class="blog-style2">
+                                    <div class="blog-img">
+                                        <img src="assets/img/blog/blog_3_2_7.jpg" alt="blog image">
+                                    </div>
+                                    <div class="blog-content">
+                                        <a data-theme-color="#E8137D" href="blog.php" class="category">Sports</a>
+                                        <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Ride to thrive the latest cycling news</a></h3>
+                                        <div class="blog-meta">
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>16 Mar, 2024</a>
                                         </div>
                                     </div>
 
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_4.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Score big with the Latest sports news.</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>30 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
-                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-12 col-md-6 border-blog">
+                                <div class="blog-style2">
+                                    <div class="blog-img">
+                                        <img src="assets/img/blog/blog_3_2_8.jpg" alt="blog image">
                                     </div>
-
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_5.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#868101" href="blog.html" class="category">Action</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">Adventure awaits, seize the moment</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>16 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="col-xl-12 col-md-6 border-blog">
-                                        <div class="blog-style2">
-                                            <div class="blog-img">
-                                                <img src="assets/img/blog/blog_3_6.jpg" alt="blog image">
-                                            </div>
-                                            <div class="blog-content">
-                                                <a data-theme-color="#868101" href="blog.html" class="category">Thriller</a>
-                                                <h3 class="box-title-18"><a class="hover-line" href="blog-details.html">brace yourself for thrilling adventure.</a></h3>
-                                                <div class="blog-meta">
-                                                    <a href="blog.html"><i class="fal fa-calendar-days"></i>24 Mar, 2023</a>
-                                                </div>
-                                            </div>
-
+                                    <div class="blog-content">
+                                        <a data-theme-color="#019D9E" href="blog.php" class="category">Travel</a>
+                                        <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Discovering destinations latest travel spot</a></h3>
+                                        <div class="blog-meta">
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>14 Mar, 2024</a>
                                         </div>
                                     </div>
 
@@ -1651,95 +1065,133 @@ Blog Area
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+    <div class="container space-top">
+        <a href="https://themeforest.net/user/themeholy/portfolio">
+            <img src="assets/img/gambar/2.png" alt="ads" class="w-100 mb-5">
+        </a>
+    </div>
     <div class="space-bottom">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col">
-                    <h2 class="sec-title has-line">Featured Post</h2>
+                    <h2 class="sec-title has-line">Favorit Minggu Ini</h2>
                 </div>
                 <div class="col-auto">
                     <div class="sec-btn">
                         <div class="icon-box">
-                            <button data-slick-prev="#blog-slide3" class="slick-arrow default"><i class="far fa-arrow-left"></i></button>
-                            <button data-slick-next="#blog-slide3" class="slick-arrow default"><i class="far fa-arrow-right"></i></button>
+                            <button data-slick-prev="#blog-slide4" class="slick-arrow default"><i class="far fa-arrow-left"></i></button>
+                            <button data-slick-next="#blog-slide4" class="slick-arrow default"><i class="far fa-arrow-right"></i></button>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row th-carousel" id="blog-slide3" data-slide-show="3" data-lg-slide-show="2" data-md-slide-show="2" data-sm-slide-show="1">
-                <div class="col-sm-6 col-xl-4">
+            <div class="row th-carousel" id="blog-slide4" data-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="2">
+                <div class="col-sm-6 col-lg-4 col-xl-3">
                     <div class="blog-style1">
                         <div class="blog-img">
-                            <img src="assets/img/blog/blog_4_1.jpg" alt="blog image">
-                            <a data-theme-color="#FF9500" href="blog.html" class="category">Politics</a>
+                            <img src="assets/img/gambar/erik-mclean-ZRns2R5azu0-unsplash.jpg" alt="blog image">
+                            <a data-theme-color="#00D084" href="blog.php" class="category">Mobil</a>
                         </div>
-                        <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">Relaxation redefined, your beach Resort sanctuary</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mengulas Teknologi Self-Driving Terbaru: Fitur Autopilot Tesla Model X 2024 dan Fitur-Fitur Terkemuka Lainnya</a></h3>
                         <div class="blog-meta">
-                            <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>23 Mar, 2023</a>
+                            <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-xl-4">
+                <div class="col-sm-6 col-lg-4 col-xl-3">
                     <div class="blog-style1">
                         <div class="blog-img">
-                            <img src="assets/img/blog/blog_4_2.jpg" alt="blog image">
-                            <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
+                            <img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="blog image">
+                            <a data-theme-color="#019D9E" href="blog.php" class="category">Motor</a>
                         </div>
-                        <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">Game on! Embrace the spirit of Competition them</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Komunitas Motor Adventure: Memetakan Destinasi Paling Epik untuk Petualangan Off-Road</a></h3>
                         <div class="blog-meta">
-                            <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>18 Mar, 2023</a>
+                            <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-xl-4">
+                <div class="col-sm-6 col-lg-4 col-xl-3">
                     <div class="blog-style1">
                         <div class="blog-img">
-                            <img src="assets/img/blog/blog_4_3.jpg" alt="blog image">
-                            <a data-theme-color="#E7473C" href="blog.html" class="category">Fitness</a>
+                            <img src="assets/img/gambar/dhiva-krishna-X16zXcbxU4U-unsplash.jpg" alt="blog image">
+                            <a data-theme-color="#59C2D6" href="blog.php" class="category">Teknologi Otomotif</a>
                         </div>
-                        <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">Adventure awaits, let your Wanderlust guide you</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mengintip Perkembangan Terbaru dalam Pengisian Cepat Mobil Listrik: Solusi untuk Meningkatkan Ketersediaan Infrastruktur Pengisian</a></h3>
                         <div class="blog-meta">
-                            <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>15 Mar, 2023</a>
+                            <a href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>16 Mar, 2024</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-xl-4">
+                <div class="col-sm-6 col-lg-4 col-xl-3">
                     <div class="blog-style1">
                         <div class="blog-img">
-                            <img src="assets/img/blog/blog_4_4.jpg" alt="blog image">
-                            <a data-theme-color="#4E4BD0" href="blog.html" class="category">Sports</a>
+                            <img src="assets/img/gambar/jaromir-kavan-XuDPnpox8tc-unsplash.jpg" alt="blog image">
+                            <a data-theme-color="#8750A6" href="blog.php" class="category">Industri Otomotif</a>
                         </div>
-                        <h3 class="box-title-24"><a class="hover-line" href="blog-details.html">Excellence in business our Passion your success</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Menanggapi Perubahan Regulasi Lingkungan: Bagaimana Industri Otomotif Menyesuaikan Proses Manufaktur untuk Kepatuhan</a></h3>
                         <div class="blog-meta">
-                            <a href="author.html"><i class="far fa-user"></i>By - Tnews</a>
-                            <a href="blog.html"><i class="fal fa-calendar-days"></i>17 Mar, 2023</a>
+                            <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>25 Mar, 2024</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xl-3">
+                    <div class="blog-style1">
+                        <div class="blog-img">
+                            <img src="assets/img/gambar/nicholas-green-nPz8akkUmDI-unsplash.jpg" alt="blog image">
+                            <a data-theme-color="#FF9500" href="blog.php" class="category">Acara Otomotif</a>
+                        </div>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h3>
+                        <div class="blog-meta">
+                            <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
+                            <a href="blog.php"><i class="fal fa-calendar-days"></i>14 Mar, 2024</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div><!--==============================
+Newsletter Area  
+==============================-->
+    <!-- <div class="bg-smoke py-lg-4">
+        <div class="container">
+            <div class="row flex-row-reverse justify-content-center justify-content-lg-between align-items-center">
+                <div class="col-lg-5 mb-n3 mb-lg-0">
+                    <div class="text-center text-lg-end pt-4 pt-lg-0">
+                        <img src="assets/img/bg/newsletter_img.png" alt="icon">
+                    </div>
+                </div>
+                <div class="col-lg-7 py-4 text-center text-lg-start">
+                    <h2 class="box-title-30 mb-30">Join Our Newsletter to receive <br> Daily Update News</h2>
+                    <form class="newsletter-form width2">
+                        <input class="form-control" type="email" placeholder="Enter Email" required="">
+                        <button type="submit" class="th-btn">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!--==============================
 	Footer Area
 ==============================-->
-    <footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/footer_bg_1.png">
+    <footer class="footer-wrapper footer-layout1" >
         <div class="widget-area">
             <div class="container">
                 <div class="row justify-content-between">
                     <div class="col-md-6 col-xl-3">
-                        <div class="widget footer-widget">
+                        <div class="widget footer-widget">  
                             <div class="th-widget-about">
                                 <div class="about-logo">
-                                    <a href="home-newspaper.html"><img src="assets/img/logo-footer.svg" alt="Tnews"></a>
+                                    <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" alt="Tnews" style="width: 150px;"></a>
                                 </div>
-                                <p class="about-text">Magazines cover a wide subjects, including not limited to fashion, lifestyle, health, politics, business, Entertainment, sports, science,</p>
+                                <p class="about-text">"Berita adalah apa yang seseorang ingin diketahui. Semua yang lain adalah gosip." - William Randolph Hearst</p>
                                 <div class="th-social style-black">
                                     <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                                     <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
@@ -1749,44 +1201,44 @@ Blog Area
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-xl-auto">
+                    <!-- <div class="col-md-6 col-xl-auto">
                         <div class="widget widget_nav_menu footer-widget">
                             <h3 class="widget_title">Categories</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="blog.html">Political</a></li>
-                                    <li><a href="blog.html">Business</a></li>
-                                    <li><a href="blog.html">Health</a></li>
-                                    <li><a href="blog.html">Technology</a></li>
-                                    <li><a href="blog.html">Sports</a></li>
-                                    <li><a href="blog.html">Entertainment</a></li>
+                                    <li><a href="blog.php">Political</a></li>
+                                    <li><a href="blog.php">Business</a></li>
+                                    <li><a href="blog.php">Health</a></li>
+                                    <li><a href="blog.php">Technology</a></li>
+                                    <li><a href="blog.php">Sports</a></li>
+                                    <li><a href="blog.php">Entertainment</a></li>
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-md-6 col-xl-auto">
                         <div class="widget footer-widget">
-                            <h3 class="widget_title">Recent Posts</h3>
+                            <h3 class="widget_title">Postingan Terbaru</h3>
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-2-1.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.html">Equality and justice for Every citizen</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2024</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-2-2.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.html">Key eyes on the latest update of technology</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Panduan Membeli Mobil Bekas: Tips Penting untuk Mendapatkan Kendaraan yang Berkualitas dengan Harga Terjangkau</a></h4>
                                         <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
+                                            <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2024</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1794,21 +1246,33 @@ Blog Area
                         </div>
                     </div>
                     <div class="col-md-6 col-xl-3">
-                        <div class="widget widget_tag_cloud footer-widget">
-                            <h3 class="widget_title">Popular Tags</h3>
-                            <div class="tagcloud">
-                                <a href="blog.html">Sports</a>
-                                <a href="blog.html">Politics</a>
-                                <a href="blog.html">Business</a>
-                                <a href="blog.html">Music</a>
-                                <a href="blog.html">Food</a>
-                                <a href="blog.html">Technology</a>
-                                <a href="blog.html">Travels</a>
-                                <a href="blog.html">Health</a>
-                                <a href="blog.html">Fashions</a>
-                                <a href="blog.html">Animal</a>
-                                <a href="blog.html">Weather</a>
-                                <a href="blog.html">Movies</a>
+                        <div class="widget footer-widget">
+                            <h3 class="widget_title">Postingan Galleri</h3>
+                            <div class="sidebar-gallery">
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="Gallery Image">
+                                    <a href="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash.jpg" alt="Gallery Image">
+                                    <a href="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/gambar/sven-d-a4S6KUuLeoM-unsplash.jpg" alt="Gallery Image">
+                                    <a href="assets/img/gambar/sven-d-a4S6KUuLeoM-unsplash.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/gambar/connor-wang-3ttFTqPQs5A-unsplash.jpg" alt="Gallery Image">
+                                    <a href="assets/img/gambar/connor-wang-3ttFTqPQs5A-unsplash.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/gambar/auto-2179220_1920.jpg" alt="Gallery Image">
+                                    <a href="assets/img/gambar/auto-2179220_1920.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/gambar/dhiva-krishna-X16zXcbxU4U-unsplash.jpg" alt="Gallery Image">
+                                    <a href="assets/img/gambar/dhiva-krishna-X16zXcbxU4U-unsplash.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1819,15 +1283,15 @@ Blog Area
             <div class="container">
                 <div class="row jusity-content-between align-items-center">
                     <div class="col-lg-5">
-                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2023 <a href="home-newspaper.html">Tnews</a>. All Rights Reserved.</p>
+                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2024 <a href="home-magazine.php">Arsikom - cahya</a>. All Rights Reserved.</p>
                     </div>
                     <div class="col-lg-auto ms-auto d-none d-lg-block">
                         <div class="footer-links">
                             <ul>
-                                <li><a href="home-newspaper.html">Home</a></li>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="about.html">Faq</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="home-magazine.php">Home</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="about.php">Faq</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
