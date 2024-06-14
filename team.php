@@ -498,7 +498,7 @@ Team Area
                 <div class="col-sm-6 col-lg-4 col-xl-3">
                     <div class="team-card">
                         <div class="box-img">
-                            <img src="assets/img/avatar/alexander-hipp-iEEBWgY_6lA-unsplash.jpg" alt="Team">
+                            <img src="assets/img/avatar/NAFIS_JAS.jpg" alt="Team">
                             <div class="th-social">
                                 <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
                                 <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
@@ -514,7 +514,7 @@ Team Area
                 <div class="col-sm-6 col-lg-4 col-xl-3">
                     <div class="team-card">
                         <div class="box-img">
-                            <img src="assets/img/avatar/nicolas-horn-MTZTGvDsHFY-unsplash.jpg" alt="Team">
+                            <img src="assets/img/avatar/indah.png" alt="Team">
                             <div class="th-social">
                                 <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
                                 <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
