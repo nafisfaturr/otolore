@@ -187,10 +187,10 @@
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
+                            <a href=" "><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Fitness: Your journey to Better, stronger you.</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href=" ">Fitness: Your journey to Better, stronger you.</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                             </div>
@@ -198,10 +198,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
+                            <a href=" "><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Embrace the game Ignite your sporting</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href=" ">Embrace the game Ignite your sporting</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                             </div>
@@ -209,10 +209,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
+                            <a href=" "><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href=" ">Revolutionizing lives Through technology</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
                             </div>
@@ -220,10 +220,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
+                            <a href=" "><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Enjoy the Virtual Reality embrace the</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href=" ">Enjoy the Virtual Reality embrace the</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
                             </div>
@@ -305,7 +305,7 @@
                             <li><a href="blog.php">Blog Standard</a></li>
                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                             <li><a href="blog-list.php">Blog List</a></li>
-                            <li><a href="blog-details.php">Blog Details</a></li>
+                            <li><a href=" ">Blog Details</a></li>
                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -437,7 +437,7 @@
                                             <li><a href="blog.php">Blog Standard</a></li>
                                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                                             <li><a href="blog-list.php">Blog List</a></li>
-                                            <li><a href="blog-details.php">Blog Details</a></li>
+                                            <li><a href=" ">Blog Details</a></li>
                                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -491,12 +491,12 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#6234AC" href="blog.php" class="category">Gadget</a>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Tech brilliance, forging a path to a smarter connected universe.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href=" ">Tech brilliance, forging a path to a smarter connected universe.</a></h3>
                                     <div class="blog-meta">
                                         <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2023</a>
                                     </div>
-                                    <a href="blog-details.php" class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                    <a href=" " class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -508,12 +508,12 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#6234AC" href="blog.php" class="category">Technology</a>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">where possibilities blossom, and lives thrive with technology.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href=" ">where possibilities blossom, and lives thrive with technology.</a></h3>
                                     <div class="blog-meta">
                                         <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>15 Mar, 2023</a>
                                     </div>
-                                    <a href="blog-details.php" class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                    <a href=" " class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -525,12 +525,12 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#6234AC" href="blog.php" class="category">Robotic</a>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Robotics empowers progress, reshaping industries with ingenuity.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href=" ">Robotics empowers progress, reshaping industries with ingenuity.</a></h3>
                                     <div class="blog-meta">
                                         <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>15 Mar, 2023</a>
                                     </div>
-                                    <a href="blog-details.php" class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                    <a href=" " class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -542,12 +542,12 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#6234AC" href="blog.php" class="category">Desk</a>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">where gadgets enhance your life effortlessly and beautifully.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href=" ">where gadgets enhance your life effortlessly and beautifully.</a></h3>
                                     <div class="blog-meta">
                                         <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>21 Mar, 2023</a>
                                     </div>
-                                    <a href="blog-details.php" class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                    <a href=" " class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -559,12 +559,12 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#6234AC" href="blog.php" class="category">VR Glass</a>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Elevate life, redefine human potential with virtual reality.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href=" ">Elevate life, redefine human potential with virtual reality.</a></h3>
                                     <div class="blog-meta">
                                         <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>16 Mar, 2023</a>
                                     </div>
-                                    <a href="blog-details.php" class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                    <a href=" " class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -576,12 +576,12 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#6234AC" href="blog.php" class="category">Gadgets</a>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Where gadgets enhance your life effortlessly and beautifully.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href=" ">Where gadgets enhance your life effortlessly and beautifully.</a></h3>
                                     <div class="blog-meta">
                                         <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>29 Mar, 2023</a>
                                     </div>
-                                    <a href="blog-details.php" class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                    <a href=" " class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -593,12 +593,12 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#6234AC" href="blog.php" class="category">Gadgets</a>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Tech brilliance, forging a path to a smarter, connected universe.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href=" ">Tech brilliance, forging a path to a smarter, connected universe.</a></h3>
                                     <div class="blog-meta">
                                         <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>30 Mar, 2023</a>
                                     </div>
-                                    <a href="blog-details.php" class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                    <a href=" " class="th-btn style2">Read More<i class="fas fa-arrow-up-right ms-2"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -694,10 +694,10 @@ Blog Area
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-2-1.jpg" alt="Blog Image"></a>
+                                        <a href=" "><img src="assets/img/blog/recent-post-2-1.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Equality and justice for Every citizen</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href=" ">Equality and justice for Every citizen</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                                         </div>
@@ -705,10 +705,10 @@ Blog Area
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-2-2.jpg" alt="Blog Image"></a>
+                                        <a href=" "><img src="assets/img/blog/recent-post-2-2.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Key eyes on the latest update of technology</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href=" ">Key eyes on the latest update of technology</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                                         </div>

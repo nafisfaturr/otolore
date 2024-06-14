@@ -187,10 +187,10 @@
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
+                            <a href=" "><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Fitness: Your journey to Better, stronger you.</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href=" ">Fitness: Your journey to Better, stronger you.</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                             </div>
@@ -198,10 +198,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
+                            <a href=" "><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Embrace the game Ignite your sporting</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href=" ">Embrace the game Ignite your sporting</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                             </div>
@@ -209,10 +209,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
+                            <a href=" "><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href=" ">Revolutionizing lives Through technology</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
                             </div>
@@ -220,10 +220,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
+                            <a href=" "><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Enjoy the Virtual Reality embrace the</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href=" ">Enjoy the Virtual Reality embrace the</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
                             </div>
@@ -305,7 +305,7 @@
                             <li><a href="blog.php">Blog Standard</a></li>
                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                             <li><a href="blog-list.php">Blog List</a></li>
-                            <li><a href="blog-details.php">Blog Details</a></li>
+                            <li><a href=" ">Blog Details</a></li>
                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -437,7 +437,7 @@
                                             <li><a href="blog.php">Blog Standard</a></li>
                                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                                             <li><a href="blog-list.php">Blog List</a></li>
-                                            <li><a href="blog-details.php">Blog Details</a></li>
+                                            <li><a href=" ">Blog Details</a></li>
                                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -488,7 +488,7 @@
                         <div class="blog-meta">
                             <a class="author" href="blog.php"><i class="far fa-user"></i>By - Tnews</a>
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
-                            <a href="blog-details.php"><i class="far fa-comments"></i>Comments (3)</a>
+                            <a href=" "><i class="far fa-comments"></i>Comments (3)</a>
                             <span><i class="far fa-book-open"></i>5 Mins Read</span>
                         </div>
                         <div class="blog-video">
@@ -583,18 +583,18 @@
                                 </div>
                                 <div class="media-body">
                                     <h5 class="title">
-                                        <a class="hover-line" href="blog-details.php">Game on! Embrace the spirit of sportsmanship</a>
+                                        <a class="hover-line" href=" ">Game on! Embrace the spirit of sportsmanship</a>
                                     </h5>
-                                    <a href="blog-details.php" class="nav-text"><i class="fas fa-arrow-left me-2"></i>Prev</a>
+                                    <a href=" " class="nav-text"><i class="fas fa-arrow-left me-2"></i>Prev</a>
                                 </div>
                             </div>
                             <div class="divider"></div>
                             <div class="nav-btn next">
                                 <div class="media-body">
                                     <h5 class="title">
-                                        <a class="hover-line" href="blog-details.php">Push your limits, redefine what's possible</a>
+                                        <a class="hover-line" href=" ">Push your limits, redefine what's possible</a>
                                     </h5>
-                                    <a href="blog-details.php" class="nav-text">Next<i class="fas fa-arrow-right ms-2"></i></a>
+                                    <a href=" " class="nav-text">Next<i class="fas fa-arrow-right ms-2"></i></a>
                                 </div>
                                 <div class="img">
                                     <img src="assets/img/blog/blog-nav-2.jpg" alt="blog img" class="nav-img">
@@ -634,7 +634,7 @@
                                             <h3 class="name">Brooklyn Simmons</h3>
                                             <p class="text">Your sport blog is simply fantastic! The in-depth analysis, engaging writing style, and up-to-date coverage of various sports events make it a must-visit for any sports enthusiast.</p>
                                             <div class="reply_and_edit">
-                                                <a href="blog-details.php" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
+                                                <a href=" " class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
                                             </div>
                                         </div>
                                     </div>
@@ -649,7 +649,7 @@
                                                     <h3 class="name">Marvin McKinney</h3>
                                                     <p class="text">Whether it's breaking news, expert opinions, or inspiring athlete profiles, your blog delivers a winning combination of excitement and information that keeps.</p>
                                                     <div class="reply_and_edit">
-                                                        <a href="blog-details.php" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
+                                                        <a href=" " class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -666,7 +666,7 @@
                                             <h3 class="name">Ronald Richards</h3>
                                             <p class="text">The way you seamlessly blend statistical insights with compelling storytelling creates an immersive and captivating reading experience. Whether it's the latest match updates, behind-the-scenes glimpses.</p>
                                             <div class="reply_and_edit">
-                                                <a href="blog-details.php" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
+                                                <a href=" " class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
                                             </div>
                                         </div>
                                     </div>
@@ -738,10 +738,10 @@
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
+                                        <a href=" "><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Fitness: Your journey to Better, stronger you.</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href=" ">Fitness: Your journey to Better, stronger you.</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                                         </div>
@@ -749,10 +749,10 @@
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
+                                        <a href=" "><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Embrace the game Ignite your sporting</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href=" ">Embrace the game Ignite your sporting</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                                         </div>
@@ -760,10 +760,10 @@
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
+                                        <a href=" "><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href=" ">Revolutionizing lives Through technology</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
                                         </div>
@@ -771,10 +771,10 @@
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
+                                        <a href=" "><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Enjoy the Virtual Reality embrace the</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href=" ">Enjoy the Virtual Reality embrace the</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
                                         </div>
@@ -830,7 +830,7 @@
                                 <img src="assets/img/blog/blog_1_1.jpg" alt="blog image">
                                 <a data-theme-color="#00D084" href="blog.php" class="category">Lifestyle</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Balance harmony and joy in Every lifestyle.</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href=" ">Balance harmony and joy in Every lifestyle.</a></h3>
                             <div class="blog-meta">
                                 <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>11 Mar, 2023</a>
@@ -843,7 +843,7 @@
                                 <img src="assets/img/blog/blog_1_2.jpg" alt="blog image">
                                 <a data-theme-color="#FF9500" href="blog.php" class="category">Politics</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Power to the people for a Better future!</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href=" ">Power to the people for a Better future!</a></h3>
                             <div class="blog-meta">
                                 <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>23 Mar, 2023</a>
@@ -856,7 +856,7 @@
                                 <img src="assets/img/blog/blog_1_3.jpg" alt="blog image">
                                 <a data-theme-color="#E7473C" href="blog.php" class="category">Fitness</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Fitness the key to vitality and Well-being.</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href=" ">Fitness the key to vitality and Well-being.</a></h3>
                             <div class="blog-meta">
                                 <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>10 Mar, 2023</a>
@@ -869,7 +869,7 @@
                                 <img src="assets/img/blog/blog_1_4.jpg" alt="blog image">
                                 <a data-theme-color="#00D084" href="blog.php" class="category">Health</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Embrace bump and Victory volleyball style.</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href=" ">Embrace bump and Victory volleyball style.</a></h3>
                             <div class="blog-meta">
                                 <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>28 Mar, 2023</a>
@@ -882,7 +882,7 @@
                                 <img src="assets/img/blog/blog_1_5.jpg" alt="blog image">
                                 <a data-theme-color="#FF9500" href="blog.php" class="category">Politics</a>
                             </div>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Leadership for the People By the people</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href=" ">Leadership for the People By the people</a></h3>
                             <div class="blog-meta">
                                 <a href="author.php"><i class="far fa-user"></i>By - Tnews</a>
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>10 Mar, 2023</a>
@@ -936,10 +936,10 @@
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-2-1.jpg" alt="Blog Image"></a>
+                                        <a href=" "><img src="assets/img/blog/recent-post-2-1.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Equality and justice for Every citizen</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href=" ">Equality and justice for Every citizen</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                                         </div>
@@ -947,10 +947,10 @@
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-2-2.jpg" alt="Blog Image"></a>
+                                        <a href=" "><img src="assets/img/blog/recent-post-2-2.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Key eyes on the latest update of technology</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href=" ">Key eyes on the latest update of technology</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                                         </div>
