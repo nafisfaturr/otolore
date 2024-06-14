@@ -108,8 +108,8 @@
             <div class="widget  ">
                 <div class="th-widget-about">
                     <div class="about-logo">
-                        <a href="home-magazine.php"><img class="light-img" src="assets/img/Logo-lore.svg" alt="Tnews"></a>
-                        <a href="home-magazine.php"><img class="dark-img" src="assets/img/Logo-lore.svg" alt="Tnews"></a>
+                        <a href="index.php"><img class="light-img" src="assets/img/Logo-lore.svg" alt="Tnews" width="200" height="auto"></a>
+                        <a href="index.php"><img class="dark-img" src="assets/img/Logo-lore.svg" alt="Tnews" width="200" height="auto"></a>
                     </div>
                     <p class="about-text">Magazines cover a wide subjects, including not limited to fashion, lifestyle, health, politics, business, Entertainment, sports, science,</p>
                     <div class="th-social style-black">
@@ -125,7 +125,7 @@
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash.jpg" alt="blog image"></a>
+                            <a href="blog-details.php"><img src="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash.jpg" alt="blog image" width="200" height="200"></a>
                         </div>
                         <div class="media-body">
                             <h4 class="post-title"><a class="hover-line" href="blog-details.php">Konsolidasi di Dunia Otomotif: Meninjau Penggabungan</a></h4>
@@ -136,7 +136,7 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/lance-asper-N9Pf2J656aQ-unsplash.jpg" alt="blog image"></a>
+                            <a href="blog-details.php"><img src="assets/img/gambar/lance-asper-N9Pf2J656aQ-unsplash.jpg" alt="blog image" width="200" height="200"></a>
                         </div>
                         <div class="media-body">
                             <h4 class="post-title"><a class="hover-line" href="blog-details.php">Perkembangan Mobil Otonom</a></h4>
@@ -147,7 +147,7 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/auto-2179220_1920.jpg" alt="blog image"></a>
+                            <a href="blog-details.php"><img src="assets/img/gambar/auto-2179220_1920.jpg" alt="blog image" width="200" height="200"></a>
                         </div>
                         <div class="media-body">
                             <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
@@ -158,7 +158,7 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/dan-gold-N7RiDzfF2iw-unsplash.jpg" alt="blog image"></a>
+                            <a href="blog-details.php"><img src="assets/img/gambar/dan-gold-N7RiDzfF2iw-unsplash.jpg" alt="blog image" width="200" height="200"></a>
                         </div>
                         <div class="media-body">
                             <h4 class="post-title"><a class="hover-line" href="blog-details.php">Mazda MX-5: Memperingati 30 Tahun </a></h4>
@@ -259,15 +259,15 @@
         <div class="th-menu-area text-center">
             <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" alt="Tnews"></a>
+                <a href="index.php"><img src="assets/img/Logo-lore.svg" alt="Tnews"></a>
             </div>
             <div class="th-mobile-menu">
                 <ul>
                     <li class="">
-                        <a href="home-magazine.php">Home</a>
+                        <a href="index.php">Home</a>
                         <!-- <ul class="sub-menu">
-                            <li><a href="home-magazine.php">Home Newspaper</a></li>
-                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                            <li><a href="index.php">Home Newspaper</a></li>
+                            <li><a href="index.php">Home Magazine</a></li>
                             <li><a href="home-sports.php">Home Sports</a></li>
                             <li><a href="home-movie.php">Home Movie</a></li>
                             <li><a href="home-gadget.php">Home Gadget</a></li>
@@ -339,7 +339,7 @@
                     </div>
                     <div class="col-auto d-none d-lg-inline-block">
                         <div class="header-logo">
-                            <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" style="width: 200px; height: 150px;" alt="Tnews"></a>
+                            <a href="index.php"><img src="assets/img/Logo-lore.svg" style="width: 200px; height: 150px;" alt="Tnews"></a>
                         </div>
                     </div>
                     <div class="col-auto text-center text-md-end">
@@ -368,17 +368,17 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto d-lg-none d-block">
                             <div class="header-logo">
-                                <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" style="width: 30%;" alt="Tnews"></a>
+                                <a href="index.php"><img src="assets/img/Logo-lore.svg" style="width: 30%;" alt="Tnews"></a>
                             </div>
                         </div>
                         <div class="col-auto">
                             <nav class="main-menu d-none d-lg-inline-block">
                                 <ul>
                                     <li class="">
-                                        <a href="home-magazine.php">Home</a>
+                                        <a href="index.php">Home</a>
                                         <!-- <ul class="sub-menu">
-                                            <li><a href="home-magazine.php">Home Newspaper</a></li>
-                                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                                            <li><a href="index.php">Home Newspaper</a></li>
+                                            <li><a href="index.php">Home Magazine</a></li>
                                             <li><a href="home-sports.php">Home Sports</a></li>
                                             <li><a href="home-movie.php">Home Movie</a></li>
                                             <li><a href="home-gadget.php">Home Gadget</a></li>
@@ -910,8 +910,8 @@ Blog Area
                                 </div>
                                 <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Relaxation redefined, your beach Resort sanctuary</a></h3>
                                 <div class="blog-meta">
-                                    <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
-                                    <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
+                                    <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
+                                    <!-- <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
                                 </div>
                             </div>
                         </div>
@@ -923,7 +923,7 @@ Blog Area
                                 </div>
                                 <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Fashion fuels dreams, defines Your identity.</a></h3>
                                 <div class="blog-meta">
-                                    <!-- <a href="team.php"><i class="far fa-user"></i>By - Tnews</a> -->
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>26 Mar, 2024</a>
                                 </div>
                             </div>
@@ -936,7 +936,7 @@ Blog Area
                                 </div>
                                 <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Life, a canvas, paint your goal Masterpiece.</a></h3>
                                 <div class="blog-meta">
-                                    <!-- <a href="team.php"><i class="far fa-user"></i>By - Tnews</a> -->
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>29 Mar, 2024</a>
                                 </div>
                             </div>
@@ -949,7 +949,7 @@ Blog Area
                                 </div>
                                 <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Fashion speaks volumes, wear Your confidence.</a></h3>
                                 <div class="blog-meta">
-                                    <!-- <a href="team.php"><i class="far fa-user"></i>By - Tnews</a> -->
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>11 Mar, 2024</a>
                                 </div>
                             </div>
@@ -962,7 +962,7 @@ Blog Area
                                 </div>
                                 <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Embrace the challenge, conquer Sports goals.</a></h3>
                                 <div class="blog-meta">
-                                    <!-- <a href="team.php"><i class="far fa-user"></i>By - Tnews</a> -->
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>23 Mar, 2024</a>
                                 </div>
                             </div>
@@ -975,7 +975,7 @@ Blog Area
                                 </div>
                                 <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Soulful symphony, music speaks Volume of music.</a></h3>
                                 <div class="blog-meta">
-                                    <!-- <a href="team.php"><i class="far fa-user"></i>By - Tnews</a> -->
+                                    <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>15 Mar, 2024</a>
                                 </div>
                             </div>
@@ -995,7 +995,7 @@ Blog Area
                                         <a data-theme-color="#4E4BD0" href="blog.php" class="category">Fashion</a>
                                         <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Control conquer your day with smart watch</a></h3>
                                         <div class="blog-meta">
-                                            <!-- <a href="team.php"><i class="far fa-user"></i>By - Tnews</a> -->
+                                            <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>28 Mar, 2024</a>
                                         </div>
                                     </div>
@@ -1189,7 +1189,7 @@ Newsletter Area
                         <div class="widget footer-widget">  
                             <div class="th-widget-about">
                                 <div class="about-logo">
-                                    <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" alt="Tnews" style="width: 150px;"></a>
+                                    <a href="index.php"><img src="assets/img/Logo-lore.svg" alt="Tnews" style="width: 150px;"></a>
                                 </div>
                                 <p class="about-text">"Berita adalah apa yang seseorang ingin diketahui. Semua yang lain adalah gosip." - William Randolph Hearst</p>
                                 <div class="th-social style-black">
@@ -1283,12 +1283,12 @@ Newsletter Area
             <div class="container">
                 <div class="row jusity-content-between align-items-center">
                     <div class="col-lg-5">
-                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2024 <a href="home-magazine.php">TPL'59 A</a>. All Rights Reserved.</p>
+                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2024 <a href="index.php">TPL'59 AP1</a>. All Rights Reserved.</p>
                     </div>
                     <div class="col-lg-auto ms-auto d-none d-lg-block">
                         <div class="footer-links">
                             <ul>
-                                <li><a href="home-magazine.php">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About Us</a></li>
                                 <li><a href="about.php">Faq</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>

@@ -266,7 +266,7 @@
                         <a href="home-newspaper.php">Home</a>
                         <ul class="sub-menu">
                             <li><a href="home-newspaper.php">Home Newspaper</a></li>
-                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                            <li><a href="index.php">Home Magazine</a></li>
                             <li><a href="home-sports.php">Home Sports</a></li>
                             <li><a href="home-movie.php">Home Movie</a></li>
                             <li><a href="home-gadget.php">Home Gadget</a></li>
@@ -398,7 +398,7 @@
                                         <a href="home-newspaper.php">Home</a>
                                         <ul class="sub-menu">
                                             <li><a href="home-newspaper.php">Home Newspaper</a></li>
-                                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                                            <li><a href="index.php">Home Magazine</a></li>
                                             <li><a href="home-sports.php">Home Sports</a></li>
                                             <li><a href="home-movie.php">Home Movie</a></li>
                                             <li><a href="home-gadget.php">Home Gadget</a></li>

@@ -171,8 +171,8 @@
             <div class="widget  ">
                 <div class="th-widget-about">
                     <div class="about-logo">
-                        <a href="home-magazine.php"><img class="light-img" src="assets/img/logo-footer-black.svg" alt="Tnews"></a>
-                        <a href="home-magazine.php"><img class="dark-img" src="assets/img/logo-footer.svg" alt="Tnews"></a>
+                        <a href="index.php"><img class="light-img" src="assets/img/logo-footer-black.svg" alt="Tnews"></a>
+                        <a href="index.php"><img class="dark-img" src="assets/img/logo-footer.svg" alt="Tnews"></a>
                     </div>
                     <p class="about-text">Magazines cover a wide subjects, including not limited to fashion, lifestyle, health, politics, business, Entertainment, sports, science,</p>
                     <div class="th-social style-black">
@@ -259,15 +259,15 @@
         <div class="th-menu-area text-center">
             <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="home-magazine.php"><img src="assets/img/logo.svg" alt="Tnews"></a>
+                <a href="index.php"><img src="assets/img/logo.svg" alt="Tnews"></a>
             </div>
             <div class="th-mobile-menu">
                 <ul>
                     <li class="menu-item-has-children">
-                        <a href="home-magazine.php">Home</a>
+                        <a href="index.php">Home</a>
                         <ul class="sub-menu">
-                            <li><a href="home-magazine.php">Home MAhome-magazine.html</a></li>
-                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                            <li><a href="index.php">Home MAhome-magazine.html</a></li>
+                            <li><a href="index.php">Home Magazine</a></li>
                             <li><a href="home-sports.php">Home Sports</a></li>
                             <li><a href="home-movie.php">Home Movie</a></li>
                             <li><a href="home-gadget.php">Home Gadget</a></li>
@@ -369,8 +369,8 @@
                     <div class="col-auto d-none d-lg-block">
                         <div class="col-auto">
                             <div class="header-logo">
-                                <a href="home-magazine.php"><img class="light-img" src="assets/img/Logo-lore.svg" style="width: 100px;" alt="Tnews"></a>
-                                <a href="home-magazine.php"><img class="dark-img" src="assets/img/Logo-lore.svg" style="width: 100px;" alt="Tnews"></a>
+                                <a href="index.php"><img class="light-img" src="assets/img/Logo-lore.svg" style="width: 100px;" alt="Tnews"></a>
+                                <a href="index.php"><img class="dark-img" src="assets/img/Logo-lore.svg" style="width: 100px;" alt="Tnews"></a>
                             </div>
                         </div>
                     </div>
@@ -392,17 +392,17 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto d-lg-none d-block">
                             <div class="header-logo">
-                                <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" alt="Tnews"></a>
+                                <a href="index.php"><img src="assets/img/Logo-lore.svg" alt="Tnews"></a>
                             </div>
                         </div>
                         <div class="col-auto">
                             <nav class="main-menu d-none d-lg-inline-block">
                                 <ul>
                                     <li class="">
-                                        <a href="home-magazine.php">Home</a>
+                                        <a href="index.php">Home</a>
                                         <!-- <ul class="sub-menu">
-                                            <li><a href="home-magazine.php">Home MAhome-magazine.html</a></li>
-                                            <li><a href="home-magazine.php">Home Magazine</a></li>
+                                            <li><a href="index.php">Home MAhome-magazine.html</a></li>
+                                            <li><a href="index.php">Home Magazine</a></li>
                                             <li><a href="home-sports.php">Home Sports</a></li>
                                             <li><a href="home-movie.php">Home Movie</a></li>
                                             <li><a href="home-gadget.php">Home Gadget</a></li>
@@ -467,7 +467,7 @@
     <div class="breadcumb-wrapper">
         <div class="container">
             <ul class="breadcumb-menu">
-                <li><a href="home-magazine.php">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li>About Us</li>
             </ul>
         </div>
@@ -627,7 +627,7 @@ History Area
                     <div class="widget footer-widget">  
                         <div class="th-widget-about">
                             <div class="about-logo">
-                                <a href="home-magazine.php"><img src="assets/img/Logo-lore.svg" alt="Tnews" style="width: 150px;"></a>
+                                <a href="index.php"><img src="assets/img/Logo-lore.svg" alt="Tnews" style="width: 150px;"></a>
                             </div>
                             <p class="about-text">"Berita adalah apa yang seseorang ingin diketahui. Semua yang lain adalah gosip." - William Randolph Hearst</p>
                             <div class="th-social style-black">
@@ -721,12 +721,12 @@ History Area
         <div class="container">
             <div class="row jusity-content-between align-items-center">
                 <div class="col-lg-5">
-                    <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2024 <a href="home-magazine.php">Arsikom - cahya</a>. All Rights Reserved.</p>
+                    <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2024 <a href="index.php">Arsikom - cahya</a>. All Rights Reserved.</p>
                 </div>
                 <div class="col-lg-auto ms-auto d-none d-lg-block">
                     <div class="footer-links">
                         <ul>
-                            <li><a href="home-magazine.php">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="about.php">Faq</a></li>
                             <li><a href="contact.php">Contact Us</a></li>
