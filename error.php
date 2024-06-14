@@ -187,10 +187,10 @@
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href=" "><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href=" ">Fitness: Your journey to Better, stronger you.</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Fitness: Your journey to Better, stronger you.</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                             </div>
@@ -198,10 +198,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href=" "><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href=" ">Embrace the game Ignite your sporting</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Embrace the game Ignite your sporting</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                             </div>
@@ -209,10 +209,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href=" "><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href=" ">Revolutionizing lives Through technology</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
                             </div>
@@ -220,10 +220,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href=" "><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
+                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href=" ">Enjoy the Virtual Reality embrace the</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Enjoy the Virtual Reality embrace the</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
                             </div>
@@ -305,7 +305,7 @@
                             <li><a href="blog.php">Blog Standard</a></li>
                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                             <li><a href="blog-list.php">Blog List</a></li>
-                            <li><a href=" ">Blog Details</a></li>
+                            <li><a href="blog-details.php">Blog Details</a></li>
                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -437,7 +437,7 @@
                                             <li><a href="blog.php">Blog Standard</a></li>
                                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                                             <li><a href="blog-list.php">Blog List</a></li>
-                                            <li><a href=" ">Blog Details</a></li>
+                                            <li><a href="blog-details.php">Blog Details</a></li>
                                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -534,10 +534,10 @@ Error Area
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href=" "><img src="assets/img/blog/recent-post-2-1.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-2-1.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href=" ">Equality and justice for Every citizen</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Equality and justice for Every citizen</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                                         </div>
@@ -545,10 +545,10 @@ Error Area
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href=" "><img src="assets/img/blog/recent-post-2-2.jpg" alt="Blog Image"></a>
+                                        <a href="blog-details.php"><img src="assets/img/blog/recent-post-2-2.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href=" ">Key eyes on the latest update of technology</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Key eyes on the latest update of technology</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                                         </div>

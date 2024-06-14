@@ -191,7 +191,7 @@
                             <a href="blog-details-nosidebar.php"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href=" ">Fitness: Your journey to Better, stronger you.</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Fitness: Your journey to Better, stronger you.</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                             </div>
@@ -202,7 +202,7 @@
                             <a href="blog-details-nosidebar.php"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href=" ">Embrace the game Ignite your sporting</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Embrace the game Ignite your sporting</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                             </div>
@@ -213,7 +213,7 @@
                             <a href="blog-details-nosidebar.php"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href=" ">Revolutionizing lives Through technology</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
                             </div>
@@ -224,7 +224,7 @@
                             <a href="blog-details-nosidebar.php"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href=" ">Enjoy the Virtual Reality embrace the</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Enjoy the Virtual Reality embrace the</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
                             </div>
@@ -306,7 +306,7 @@
                             <li><a href="blog.php">Blog Standard</a></li>
                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                             <li><a href="blog-list.php">Blog List</a></li>
-                            <li><a href=" ">Blog Details</a></li>
+                            <li><a href="blog-details.php">Blog Details</a></li>
                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -441,7 +441,7 @@
                                             <li><a href="blog.php">Blog Standard</a></li>
                                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                                             <li><a href="blog-list.php">Blog List</a></li>
-                                            <li><a href=" ">Blog Details</a></li>
+                                            <li><a href="blog-details.php">Blog Details</a></li>
                                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -660,10 +660,10 @@ History Area
                         <div class="recent-post-wrap">
                             <div class="recent-post">
                                 <div class="media-img">
-                                    <a href=" "><img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="Blog Image"></a>
+                                    <a href="blog-details.php"><img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="Blog Image"></a>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="post-title"><a class="hover-line" href=" ">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h4>
+                                    <h4 class="post-title"><a class="hover-line" href="blog-details.php">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h4>
                                     <div class="recent-post-meta">
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2024</a>
                                     </div>
@@ -671,10 +671,10 @@ History Area
                             </div>
                             <div class="recent-post">
                                 <div class="media-img">
-                                    <a href=" "><img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="Blog Image"></a>
+                                    <a href="blog-details.php"><img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="Blog Image"></a>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="post-title"><a class="hover-line" href=" ">Panduan Membeli Mobil Bekas: Tips Penting untuk Mendapatkan Kendaraan yang Berkualitas dengan Harga Terjangkau</a></h4>
+                                    <h4 class="post-title"><a class="hover-line" href="blog-details.php">Panduan Membeli Mobil Bekas: Tips Penting untuk Mendapatkan Kendaraan yang Berkualitas dengan Harga Terjangkau</a></h4>
                                     <div class="recent-post-meta">
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2024</a>
                                     </div>
