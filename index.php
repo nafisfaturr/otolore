@@ -108,8 +108,8 @@
             <div class="widget  ">
                 <div class="th-widget-about">
                     <div class="about-logo">
-                        <a href="index.php"><img class="light-img" src="assets/img/Logo-lore.svg" alt="Tnews" width="200" height="auto"></a>
-                        <a href="index.php"><img class="dark-img" src="assets/img/Logo-lore.svg" alt="Tnews" width="200" height="auto"></a>
+                        <a href="index.php"><img class="light-img" src="assets/img/Logo-lore.svg" alt="Tnews" width="100" height="auto"></a>
+                        <a href="index.php"><img class="dark-img" src="assets/img/Logo-lore.svg" alt="Tnews" width="100" height="auto"></a>
                     </div>
                     <p class="about-text">Magazines cover a wide subjects, including not limited to fashion, lifestyle, health, politics, business, Entertainment, sports, science,</p>
                     <div class="th-social style-black">
@@ -125,7 +125,7 @@
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash.jpg" alt="blog image" width="200" height="200"></a>
+                            <a href="blog-details.php"><img src="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash.jpg" alt="blog image"></a>
                         </div>
                         <div class="media-body">
                             <h4 class="post-title"><a class="hover-line" href="blog-details.php">Konsolidasi di Dunia Otomotif: Meninjau Penggabungan</a></h4>
@@ -136,7 +136,7 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/lance-asper-N9Pf2J656aQ-unsplash.jpg" alt="blog image" width="200" height="200"></a>
+                            <a href="blog-details.php"><img src="assets/img/gambar/lance-asper-N9Pf2J656aQ-unsplash.jpg" alt="blog image"></a>
                         </div>
                         <div class="media-body">
                             <h4 class="post-title"><a class="hover-line" href="blog-details.php">Perkembangan Mobil Otonom</a></h4>
@@ -147,7 +147,7 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/auto-2179220_1920.jpg" alt="blog image" width="200" height="200"></a>
+                            <a href="blog-details.php"><img src="assets/img/gambar/auto-2179220_1920.jpg" alt="blog image"></a>
                         </div>
                         <div class="media-body">
                             <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
@@ -158,7 +158,7 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/dan-gold-N7RiDzfF2iw-unsplash.jpg" alt="blog image" width="200" height="200"></a>
+                            <a href="blog-details.php"><img src="assets/img/gambar/dan-gold-N7RiDzfF2iw-unsplash.jpg" alt="blog image"></a>
                         </div>
                         <div class="media-body">
                             <h4 class="post-title"><a class="hover-line" href="blog-details.php">Mazda MX-5: Memperingati 30 Tahun </a></h4>
