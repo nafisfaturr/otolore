@@ -482,10 +482,10 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#E8137D" href="blog.php" class="category">Mobil</a>
-                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details.php">Mengulas Performa Mobil Sport Terbaru: Tes Lapangan di Sirkuit Terkenal</a></h3>
+                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details-nosidebar">Mengulas Performa Mobil Sport Terbaru: Tes Lapangan di Sirkuit Terkenal</a></h3>
                                     <div class="blog-meta">
                                         <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
-                                        <a href="blog.php"><i class="fal fa-calendar-days"></i>29 Mar, 2024</a>
+                                        <a href="blog-details-nosidebar"><i class="fal fa-calendar-days"></i>29 Mar, 2024</a>
                                     </div>
                                 </div>
                             </div>
@@ -1096,7 +1096,7 @@ Blog Area
                             <img src="assets/img/gambar/erik-mclean-ZRns2R5azu0-unsplash.jpg" alt="blog image">
                             <a data-theme-color="#00D084" href="blog.php" class="category">Mobil</a>
                         </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mengulas Teknologi Self-Driving Terbaru: Fitur Autopilot Tesla Model X 2024 dan Fitur-Fitur Terkemuka Lainnya</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href="blog-details-nosidebar.php">Mengulas Teknologi Self-Driving Terbaru: Fitur Autopilot Tesla Model X 2024 dan Fitur-Fitur Terkemuka Lainnya</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>

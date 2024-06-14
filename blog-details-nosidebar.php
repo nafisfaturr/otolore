@@ -481,7 +481,7 @@
                     <a data-theme-color="#6234AC" href="blog.php" class="category">Mobil</a>
                     <h2 class="blog-title">Mengulas Teknologi Self-Driving Terbaru: Fitur Autopilot Tesla Model X 2024 dan Fitur-Fitur Terkemuka Lainnya</h2>
                     <div class="blog-meta">
-                        <a class="author" href="team.php"><i class="far fa-user"></i>By - Cahya</a>
+                        <!-- <a class="author" href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                         <a href="blog.php"><i class="fal fa-calendar-days"></i>21 Jun, 2024</a>
                         <a href="blog-details.php"><i class="far fa-comments"></i>Comments (3)</a>
                         <span><i class="far fa-book-open"></i>5 Menit membaca</span>
