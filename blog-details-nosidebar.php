@@ -188,10 +188,10 @@
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
+                            <a href= ""><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Fitness: Your journey to Better, stronger you.</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href= "">Fitness: Your journey to Better, stronger you.</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2023</a>
                             </div>
@@ -199,10 +199,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
+                            <a href= ""><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Embrace the game Ignite your sporting</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href= "">Embrace the game Ignite your sporting</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2023</a>
                             </div>
@@ -210,10 +210,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
+                            <a href= ""><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href= "">Revolutionizing lives Through technology</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2023</a>
                             </div>
@@ -221,10 +221,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
+                            <a href= ""><img src="assets/img/blog/recent-post-1-4.jpg" alt="Blog Image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Enjoy the Virtual Reality embrace the</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href= "">Enjoy the Virtual Reality embrace the</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2023</a>
                             </div>
@@ -306,7 +306,7 @@
                             <li><a href="blog.php">Blog Standard</a></li>
                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                             <li><a href="blog-list.php">Blog List</a></li>
-                            <li><a href="blog-details.php">Blog Details</a></li>
+                            <li><a href= "">Blog Details</a></li>
                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -441,7 +441,7 @@
                                         <li><a href="blog.php">Blog Standard</a></li>
                                         <li><a href="blog-masonary.php">Blog Masonary</a></li>
                                         <li><a href="blog-list.php">Blog List</a></li>
-                                        <li><a href="blog-details.php">Blog Details</a></li>
+                                        <li><a href= "">Blog Details</a></li>
                                         <li><a href="blog-details-video.php">Blog Details Video</a></li>
                                         <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                                         <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -483,7 +483,7 @@
                     <div class="blog-meta">
                         <!-- <a class="author" href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                         <a href="blog.php"><i class="fal fa-calendar-days"></i>21 Jun, 2024</a>
-                        <a href="blog-details.php"><i class="far fa-comments"></i>Comments (3)</a>
+                        <a href= ""><i class="far fa-comments"></i>Comments (3)</a>
                         <span><i class="far fa-book-open"></i>5 Menit membaca</span>
                     </div>
                     <div class="blog-img mb-40">
@@ -581,7 +581,7 @@
                         <div class="nav-btn next">
                             <div class="media-body">
                                 <h5 class="title">
-                                    <a class="hover-line" href="blog-details.php">Keamanan Berkendara di Malam Hari: Tips dan Trik untuk Mengatasi Tantangan Berkendara dalam Kondisi Gelap</a>
+                                    <a class="hover-line" href= "">Keamanan Berkendara di Malam Hari: Tips dan Trik untuk Mengatasi Tantangan Berkendara dalam Kondisi Gelap</a>
                                 </h5>
                                 <a href="blog-details-nosidebar.php" class="nav-text">Next<i class="fas fa-arrow-right ms-2"></i></a>
                             </div>
@@ -710,7 +710,7 @@
                                         <img src="assets/img/gambar/dhiva-krishna-X16zXcbxU4U-unsplash.jpg" alt="blog image">
                                         <a data-theme-color="#00D084" href="blog.php" class="category">Mobil</a>
                                     </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Balance harmony and joy in Every lifestyle.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href= "">Balance harmony and joy in Every lifestyle.</a></h3>
                                     <div class="blog-meta">
                                         <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2023</a>
@@ -723,7 +723,7 @@
                                         <img src="assets/img/gambar/erik-mclean-ZRns2R5azu0-unsplash.jpg" alt="blog image">
                                         <a data-theme-color="#FF9500" href="blog.php" class="category">Motor</a>
                                     </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Power to the people for a Better future!</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href= "">Power to the people for a Better future!</a></h3>
                                     <div class="blog-meta">
                                         <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>20 Mar, 2023</a>
@@ -736,7 +736,7 @@
                                         <img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="blog image">
                                         <a data-theme-color="#E7473C" href="blog.php" class="category">Teknologi Otomotif</a>
                                     </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Fitness the key to vitality and Well-being.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href= "">Fitness the key to vitality and Well-being.</a></h3>
                                     <div class="blog-meta">
                                         <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>14 Mar, 2023</a>
@@ -749,7 +749,7 @@
                                         <img src="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash.jpg" alt="blog image">
                                         <a data-theme-color="#00D084" href="blog.php" class="category">Acara Otomotif</a>
                                     </div>
-                                    <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Embrace bump and Victory volleyball style.</a></h3>
+                                    <h3 class="box-title-22"><a class="hover-line" href= "">Embrace bump and Victory volleyball style.</a></h3>
                                     <div class="blog-meta">
                                         <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>14 Mar, 2023</a>
@@ -805,10 +805,10 @@
                         <div class="recent-post-wrap">
                             <div class="recent-post">
                                 <div class="media-img">
-                                    <a href="blog-details.php"><img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="Blog Image"></a>
+                                    <a href= ""><img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="Blog Image"></a>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="post-title"><a class="hover-line" href="blog-details.php">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h4>
+                                    <h4 class="post-title"><a class="hover-line" href= "">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h4>
                                     <div class="recent-post-meta">
                                         <a href="blog-three-column.php"><i class="fal fa-calendar-days"></i>21 June, 2024</a>
                                     </div>
@@ -816,10 +816,10 @@
                             </div>
                             <div class="recent-post">
                                 <div class="media-img">
-                                    <a href="blog-details.php"><img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="Blog Image"></a>
+                                    <a href= ""><img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="Blog Image"></a>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="post-title"><a class="hover-line" href="blog-details.php">Panduan Membeli Mobil Bekas: Tips Penting untuk Mendapatkan Kendaraan yang Berkualitas dengan Harga Terjangkau</a></h4>
+                                    <h4 class="post-title"><a class="hover-line" href= "">Panduan Membeli Mobil Bekas: Tips Penting untuk Mendapatkan Kendaraan yang Berkualitas dengan Harga Terjangkau</a></h4>
                                     <div class="recent-post-meta">
                                         <a href="blog-three-column.php"><i class="fal fa-calendar-days"></i>22 June, 2024</a>
                                     </div>

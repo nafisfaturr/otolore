@@ -125,10 +125,10 @@
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash2.jpg" alt="blog image"></a>
+                            <a href= ""><img src="assets/img/gambar/maksim-larin-NDXNyZN3uZQ-unsplash2.jpg" alt="blog image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Konsolidasi di Dunia Otomotif: Meninjau Penggabungan</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href= "">Konsolidasi di Dunia Otomotif: Meninjau Penggabungan</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2024</a>
                             </div>
@@ -136,10 +136,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/lance-asper-N9Pf2J656aQ-unsplash2.jpg" alt="blog image"></a>
+                            <a href= ""><img src="assets/img/gambar/lance-asper-N9Pf2J656aQ-unsplash2.jpg" alt="blog image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Perkembangan Mobil Otonom</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href= "">Perkembangan Mobil Otonom</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2024</a>
                             </div>
@@ -147,10 +147,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/auto-2179220_19202.jpg" alt="blog image"></a>
+                            <a href= ""><img src="assets/img/gambar/auto-2179220_19202.jpg" alt="blog image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Revolutionizing lives Through technology</a></h4>
+                            <h4 class="post-title"><a class="hover-line" href= "">Revolutionizing lives Through technology</a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>23 June, 2024</a>
                             </div>
@@ -158,10 +158,10 @@
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.php"><img src="assets/img/gambar/dan-gold-N7RiDzfF2iw-unsplash2.jpg" alt="blog image"></a>
+                            <a href= ""><img src="assets/img/gambar/dan-gold-N7RiDzfF2iw-unsplash2.jpg" alt="blog image"></a>
                         </div>
                         <div class="media-body">
-                            <h4 class="post-title"><a class="hover-line" href="blog-details.php">Mazda MX-5: Memperingati 30 Tahun </a></h4>
+                            <h4 class="post-title"><a class="hover-line" href= "">Mazda MX-5: Memperingati 30 Tahun </a></h4>
                             <div class="recent-post-meta">
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>25 June, 2024</a>
                             </div>
@@ -306,7 +306,7 @@
                             <li><a href="blog.php">Blog Standard</a></li>
                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                             <li><a href="blog-list.php">Blog List</a></li>
-                            <li><a href="blog-details.php">Blog Details</a></li>
+                            <li><a href= "">Blog Details</a></li>
                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -417,7 +417,7 @@
                                             <li><a href="blog.php">Blog Standard</a></li>
                                             <li><a href="blog-masonary.php">Blog Masonary</a></li>
                                             <li><a href="blog-list.php">Blog List</a></li>
-                                            <li><a href="blog-details.php">Blog Details</a></li>
+                                            <li><a href= "">Blog Details</a></li>
                                             <li><a href="blog-details-video.php">Blog Details Video</a></li>
                                             <li><a href="blog-details-audio.php">Blog Details Audio</a></li>
                                             <li><a href="blog-details-nosidebar.php">Blog Details Nosidebar</a></li>
@@ -462,7 +462,7 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#007BFF" href="blog.php" class="category">Sejarah Otomotif</a>
-                                    <h3 class="box-title-30"><a class="hover-line" href="blog-details.php">Peluncuran Mobil Konsep Terbaru dari TESLA Mengulas Desain Futuristik dan Teknologi Canggih</a></h3>
+                                    <h3 class="box-title-30"><a class="hover-line" href= "">Peluncuran Mobil Konsep Terbaru dari TESLA Mengulas Desain Futuristik dan Teknologi Canggih</a></h3>
                                     <div class="blog-meta">
                                         <!--<a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>21 Mar, 2024</a>
@@ -482,10 +482,10 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#E8137D" href="blog.php" class="category">Mobil</a>
-                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details-nosidebar">Mengulas Performa Mobil Sport Terbaru: Tes Lapangan di Sirkuit Terkenal</a></h3>
+                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details-nosidebar.php">Mengulas Performa Mobil Sport Terbaru: Tes Lapangan di Sirkuit Terkenal</a></h3>
                                     <div class="blog-meta">
                                         <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
-                                        <a href="blog-details-nosidebar"><i class="fal fa-calendar-days"></i>29 Mar, 2024</a>
+                                        <a href="blog-details-nosidebar.php"><i class="fal fa-calendar-days"></i>29 Mar, 2024</a>
                                     </div>
                                 </div>
                             </div>
@@ -497,7 +497,7 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#007BFF" href="blog.php" class="category">Teknologi Otomotif</a>
-                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details.php">Sistem Hibrida Plug-in: Solusi Efisien untuk Mobilitas Berkelanjutan di Kota</a></h3>
+                                    <h3 class="box-title-18"><a class="hover-line" href= "">Sistem Hibrida Plug-in: Solusi Efisien untuk Mobilitas Berkelanjutan di Kota</a></h3>
                                     <div class="blog-meta">
                                         <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>19 Mar, 2024</a>
@@ -512,7 +512,7 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#8750A6" href="blog.php" class="category">Industri Otomotif</a>
-                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details.php">Kecerdasan Buatan dalam Mobil: Bagaimana AI Membantu Meningkatkan Keselamatan dan Kinerja Kendaraan</a></h3>
+                                    <h3 class="box-title-18"><a class="hover-line" href= "">Kecerdasan Buatan dalam Mobil: Bagaimana AI Membantu Meningkatkan Keselamatan dan Kinerja Kendaraan</a></h3>
                                     <div class="blog-meta">
                                         <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>24 Mar, 2024</a>
@@ -527,7 +527,7 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#4E4BD0" href="blog.php" class="category">Acara Otomotif</a>
-                                    <h3 class="box-title-18"><a class="hover-line" href="blog-details.php">Petualangan Road Trip Terbaik di Amerika Serikat: Rute Pilihan untuk Menjelajahi Keindahan Alam dengan Kendaraan Anda</a></h3>
+                                    <h3 class="box-title-18"><a class="hover-line" href= "">Petualangan Road Trip Terbaik di Amerika Serikat: Rute Pilihan untuk Menjelajahi Keindahan Alam dengan Kendaraan Anda</a></h3>
                                     <div class="blog-meta">
                                         <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
@@ -563,7 +563,7 @@ Blog Area
                                     <img src="assets/img/blog/blog_1_15.jpg" alt="blog image">
                                     <a data-theme-color="#00D084" href="blog.php" class="category">Lifestyle</a>
                                 </div>
-                                <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Balance harmony and joy in Every lifestyle.</a></h3>
+                                <h3 class="box-title-22"><a class="hover-line" href= "">Balance harmony and joy in Every lifestyle.</a></h3>
                                 <div class="blog-meta">
                                     <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>26 Mar, 2024</a>
@@ -576,7 +576,7 @@ Blog Area
                                     <img src="assets/img/blog/blog_1_16.jpg" alt="blog image">
                                     <a data-theme-color="#00D084" href="blog.php" class="category">Lifestyle</a>
                                 </div>
-                                <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Design a lifestyle that the radiates Happiness.</a></h3>
+                                <h3 class="box-title-22"><a class="hover-line" href= "">Design a lifestyle that the radiates Happiness.</a></h3>
                                 <div class="blog-meta">
                                     <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
@@ -592,7 +592,7 @@ Blog Area
                                 <img src="assets/img/blog/blog_2_3.jpg" alt="blog image">
                                 <a data-theme-color="#FF9500" href="blog.php" class="category">Business</a>
                             </div>
-                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.php">Following the Moon, they are in Close space. choose the best</a></h3>
+                            <h3 class="box-title-30"><a class="hover-line" href= "">Following the Moon, they are in Close space. choose the best</a></h3>
                             <div class="blog-meta">
                                 <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>23 Mar, 2024</a>
@@ -613,7 +613,7 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#4E4BD0" href="blog.php" class="category">Sports</a>
-                                    <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Fast breaks, slam dunks Basketball thrills.</a></h3>
+                                    <h3 class="box-title-20"><a class="hover-line" href= "">Fast breaks, slam dunks Basketball thrills.</a></h3>
                                     <div class="blog-meta">
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
                                     </div>
@@ -628,7 +628,7 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#00D084" href="blog.php" class="category">Health</a>
-                                    <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Life, a canvas, paint your Masterpiece.</a></h3>
+                                    <h3 class="box-title-20"><a class="hover-line" href= "">Life, a canvas, paint your Masterpiece.</a></h3>
                                     <div class="blog-meta">
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>21 Mar, 2024</a>
                                     </div>
@@ -643,7 +643,7 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#E7473C" href="blog.php" class="category">Fitness</a>
-                                    <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Fuel your fire, embrace Fitness goals.</a></h3>
+                                    <h3 class="box-title-20"><a class="hover-line" href= "">Fuel your fire, embrace Fitness goals.</a></h3>
                                     <div class="blog-meta">
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>27 Mar, 2024</a>
                                     </div>
@@ -658,7 +658,7 @@ Blog Area
                                 </div>
                                 <div class="blog-content">
                                     <a data-theme-color="#59C2D6" href="blog.php" class="category">Fashion</a>
-                                    <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Fashion is an art, express Yourself beautifully</a></h3>
+                                    <h3 class="box-title-20"><a class="hover-line" href= "">Fashion is an art, express Yourself beautifully</a></h3>
                                     <div class="blog-meta">
                                         <a href="blog.php"><i class="fal fa-calendar-days"></i>10 Mar, 2024</a>
                                     </div>
@@ -705,12 +705,12 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <a data-theme-color="#59C2D6" href="blog.php" class="category">Mobil</a>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Toyota Meluncurkan SUV Hibrida Terbaru: Menyambut Toyota RAV4 2024 dengan Teknologi Canggih</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href= "">Toyota Meluncurkan SUV Hibrida Terbaru: Menyambut Toyota RAV4 2024 dengan Teknologi Canggih</a></h3>
                             <div class="blog-meta">
                                 <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
                             </div>
-                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                            <a href= "" class="th-btn style2">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -722,12 +722,12 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <a data-theme-color="#8750A6" href="blog.php" class="category">Motor</a>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Yamaha R1M 2024: Mengintip Performa dan Inovasi pada Motor Super Sport Terbaru dari Yamaha</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href= "">Yamaha R1M 2024: Mengintip Performa dan Inovasi pada Motor Super Sport Terbaru dari Yamaha</a></h3>
                             <div class="blog-meta">
                                 <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>16 Mar, 2024</a>
                             </div>
-                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                            <a href= "" class="th-btn style2">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -739,12 +739,12 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <a data-theme-color="#007BFF" href="blog.php" class="category">Teknologi Otomotif</a>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Perkembangan Mobil Otonom: Apa yang Harus Diketahui tentang Teknologi Self-Driving Level 4</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href= "">Perkembangan Mobil Otonom: Apa yang Harus Diketahui tentang Teknologi Self-Driving Level 4</a></h3>
                             <div class="blog-meta">
                                 <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>27 Mar, 2024</a>
                             </div>
-                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                            <a href= "" class="th-btn style2">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -756,12 +756,12 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <a data-theme-color="#8750A6" href="blog.php" class="category">Industri Otomotif</a>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Konsolidasi di Dunia Otomotif: Meninjau Penggabungan Antara General Motors dan Ford untuk Meningkatkan Efisiensi Produksi</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href= "">Konsolidasi di Dunia Otomotif: Meninjau Penggabungan Antara General Motors dan Ford untuk Meningkatkan Efisiensi Produksi</a></h3>
                             <div class="blog-meta">
                                 <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>22 Mar, 2024</a>
                             </div>
-                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                            <a href= "" class="th-btn style2">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -773,12 +773,12 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <a data-theme-color="#007BFF" href="blog.php" class="category">Acara Otomotif</a>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Formula 1 2024: Pratinjau Musim dengan Mengulas Aturan Baru dan Persaingan Antar Tim yang Bersemangat</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href= "">Formula 1 2024: Pratinjau Musim dengan Mengulas Aturan Baru dan Persaingan Antar Tim yang Bersemangat</a></h3>
                             <div class="blog-meta">
                                 <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>24 Mar, 2024</a>
                             </div>
-                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                            <a href= "" class="th-btn style2">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -790,12 +790,12 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <a data-theme-color="#59C2D6" href="blog.php" class="category">Mobil</a>
-                            <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mazda MX-5: Memperingati 30 Tahun Kecantikan Klasik dari Roadster Legendaris</a></h3>
+                            <h3 class="box-title-22"><a class="hover-line" href= "">Mazda MX-5: Memperingati 30 Tahun Kecantikan Klasik dari Roadster Legendaris</a></h3>
                             <div class="blog-meta">
                                 <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
                             </div>
-                            <a href="blog-details.php" class="th-btn style2">Read More</a>
+                            <a href= "" class="th-btn style2">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -814,7 +814,7 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <a data-theme-color="#4E4BD0" href="blog.php" class="category">Mobil</a>
-                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.php">Jelajahi Mobil Listrik Terbaru: Menyimak Peluncuran Audi e-tron GT dan Fitur-Fitur Modernnya</a></h3>
+                            <h3 class="box-title-30"><a class="hover-line" href= "">Jelajahi Mobil Listrik Terbaru: Menyimak Peluncuran Audi e-tron GT dan Fitur-Fitur Modernnya</a></h3>
                             <div class="blog-meta">
                                 <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>24 Mar, 2024</a>
@@ -829,7 +829,7 @@ Blog Area
                         </div>
                         <div class="blog-content">
                             <a data-theme-color="#019D9E" href="blog.php" class="category">Motor</a>
-                            <h3 class="box-title-30"><a class="hover-line" href="blog-details.php">Suzuki GSX-R1000 2024 vs Kawasaki Ninja ZX-10R 2024: Perbandingan Kinerja antara Dua Motor Sport Teratas</a></h3>
+                            <h3 class="box-title-30"><a class="hover-line" href= "">Suzuki GSX-R1000 2024 vs Kawasaki Ninja ZX-10R 2024: Perbandingan Kinerja antara Dua Motor Sport Teratas</a></h3>
                             <div class="blog-meta">
                                 <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                 <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
@@ -845,7 +845,7 @@ Blog Area
                             <img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="blog image">
                             <a data-theme-color="#019D9E" href="blog.php" class="category">Teknologi Otomotif</a>
                         </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mengintip Perkembangan Terbaru dalam Pengisian Cepat Mobil Listrik: Solusi untuk Meningkatkan Ketersediaan Infrastruktur Pengisian</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href= "">Mengintip Perkembangan Terbaru dalam Pengisian Cepat Mobil Listrik: Solusi untuk Meningkatkan Ketersediaan Infrastruktur Pengisian</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
@@ -858,7 +858,7 @@ Blog Area
                             <img src="assets/img/gambar/auto-2179220_1920.jpg" alt="blog image">
                             <a data-theme-color="#8750A6" href="blog.php" class="category">Acara Otomotif</a>
                         </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">MotoGP Assen: Mengintip Sejarah dan Kenangan di Balik Sirkuit MotoGP Terkemuka di Belanda</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href= "">MotoGP Assen: Mengintip Sejarah dan Kenangan di Balik Sirkuit MotoGP Terkemuka di Belanda</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>24 Mar, 2024</a>
@@ -871,7 +871,7 @@ Blog Area
                             <img src="assets/img/gambar/connor-wang-3ttFTqPQs5A-unsplash.jpg" alt="blog image">
                             <a data-theme-color="#019D9E" href="blog.php" class="category">Industri Otomotif</a>
                         </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mengintip Perkembangan Terbaru di Pabrik Otomotif: Implementasi Robotika dan Automasi untuk Meningkatkan Efisiensi Produksi</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href= "">Mengintip Perkembangan Terbaru di Pabrik Otomotif: Implementasi Robotika dan Automasi untuk Meningkatkan Efisiensi Produksi</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>23 Mar, 2024</a>
@@ -884,7 +884,7 @@ Blog Area
                             <img src="assets/img/gambar/dan-gold-N7RiDzfF2iw-unsplash.jpg" alt="blog image">
                             <a data-theme-color="#019D9E" href="blog.php" class="category">Mobil</a>
                         </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mazda MX-5: Memperingati 30 Tahun Kecantikan Klasik dari Roadster Legendaris</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href= "">Mazda MX-5: Memperingati 30 Tahun Kecantikan Klasik dari Roadster Legendaris</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>17 Mar, 2024</a>
@@ -908,7 +908,7 @@ Blog Area
                                     <img src="assets/img/blog/blog_4_5.jpg" alt="blog image">
                                     <a data-theme-color="#019D9E" href="blog.php" class="category">Travels</a>
                                 </div>
-                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Relaxation redefined, your beach Resort sanctuary</a></h3>
+                                <h3 class="box-title-24"><a class="hover-line" href= "">Relaxation redefined, your beach Resort sanctuary</a></h3>
                                 <div class="blog-meta">
                                     <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                                     <!-- <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
@@ -921,7 +921,7 @@ Blog Area
                                     <img src="assets/img/blog/blog_4_6.jpg" alt="blog image">
                                     <a data-theme-color="#59C2D6" href="blog.php" class="category">Fashion</a>
                                 </div>
-                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Fashion fuels dreams, defines Your identity.</a></h3>
+                                <h3 class="box-title-24"><a class="hover-line" href= "">Fashion fuels dreams, defines Your identity.</a></h3>
                                 <div class="blog-meta">
                                     <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>26 Mar, 2024</a>
@@ -934,7 +934,7 @@ Blog Area
                                     <img src="assets/img/blog/blog_4_7.jpg" alt="blog image">
                                     <a data-theme-color="#00D084" href="blog.php" class="category">Lifestyle</a>
                                 </div>
-                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Life, a canvas, paint your goal Masterpiece.</a></h3>
+                                <h3 class="box-title-24"><a class="hover-line" href= "">Life, a canvas, paint your goal Masterpiece.</a></h3>
                                 <div class="blog-meta">
                                     <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>29 Mar, 2024</a>
@@ -947,7 +947,7 @@ Blog Area
                                     <img src="assets/img/blog/blog_4_8.jpg" alt="blog image">
                                     <a data-theme-color="#59C2D6" href="blog.php" class="category">Fashion</a>
                                 </div>
-                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Fashion speaks volumes, wear Your confidence.</a></h3>
+                                <h3 class="box-title-24"><a class="hover-line" href= "">Fashion speaks volumes, wear Your confidence.</a></h3>
                                 <div class="blog-meta">
                                     <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>11 Mar, 2024</a>
@@ -960,7 +960,7 @@ Blog Area
                                     <img src="assets/img/blog/blog_4_9.jpg" alt="blog image">
                                     <a data-theme-color="#4E4BD0" href="blog.php" class="category">Sports</a>
                                 </div>
-                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Embrace the challenge, conquer Sports goals.</a></h3>
+                                <h3 class="box-title-24"><a class="hover-line" href= "">Embrace the challenge, conquer Sports goals.</a></h3>
                                 <div class="blog-meta">
                                     <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>23 Mar, 2024</a>
@@ -973,7 +973,7 @@ Blog Area
                                     <img src="assets/img/blog/blog_4_10.jpg" alt="blog image">
                                     <a data-theme-color="#E8137D" href="blog.php" class="category">Music</a>
                                 </div>
-                                <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Soulful symphony, music speaks Volume of music.</a></h3>
+                                <h3 class="box-title-24"><a class="hover-line" href= "">Soulful symphony, music speaks Volume of music.</a></h3>
                                 <div class="blog-meta">
                                     <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                     <a href="blog.php"><i class="fal fa-calendar-days"></i>15 Mar, 2024</a>
@@ -993,7 +993,7 @@ Blog Area
                                     </div>
                                     <div class="blog-content">
                                         <a data-theme-color="#4E4BD0" href="blog.php" class="category">Fashion</a>
-                                        <h3 class="box-title-24"><a class="hover-line" href="blog-details.php">Control conquer your day with smart watch</a></h3>
+                                        <h3 class="box-title-24"><a class="hover-line" href= "">Control conquer your day with smart watch</a></h3>
                                         <div class="blog-meta">
                                             <a href="team.php"><i class="far fa-user"></i>By - Tnews</a>
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>28 Mar, 2024</a>
@@ -1010,7 +1010,7 @@ Blog Area
                                     </div>
                                     <div class="blog-content">
                                         <a data-theme-color="#E8137D" href="blog.php" class="category">Sports</a>
-                                        <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Tune in, turn up, and let the Music speak</a></h3>
+                                        <h3 class="box-title-20"><a class="hover-line" href= "">Tune in, turn up, and let the Music speak</a></h3>
                                         <div class="blog-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
                                         </div>
@@ -1025,7 +1025,7 @@ Blog Area
                                     </div>
                                     <div class="blog-content">
                                         <a data-theme-color="#59C2D6" href="blog.php" class="category">Fashion</a>
-                                        <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Score big with the Latest sports news.</a></h3>
+                                        <h3 class="box-title-20"><a class="hover-line" href= "">Score big with the Latest sports news.</a></h3>
                                         <div class="blog-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>25 Mar, 2024</a>
                                         </div>
@@ -1040,7 +1040,7 @@ Blog Area
                                     </div>
                                     <div class="blog-content">
                                         <a data-theme-color="#E8137D" href="blog.php" class="category">Sports</a>
-                                        <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Ride to thrive the latest cycling news</a></h3>
+                                        <h3 class="box-title-20"><a class="hover-line" href= "">Ride to thrive the latest cycling news</a></h3>
                                         <div class="blog-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>16 Mar, 2024</a>
                                         </div>
@@ -1055,7 +1055,7 @@ Blog Area
                                     </div>
                                     <div class="blog-content">
                                         <a data-theme-color="#019D9E" href="blog.php" class="category">Travel</a>
-                                        <h3 class="box-title-20"><a class="hover-line" href="blog-details.php">Discovering destinations latest travel spot</a></h3>
+                                        <h3 class="box-title-20"><a class="hover-line" href= "">Discovering destinations latest travel spot</a></h3>
                                         <div class="blog-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>14 Mar, 2024</a>
                                         </div>
@@ -1099,7 +1099,7 @@ Blog Area
                         <h3 class="box-title-22"><a class="hover-line" href="blog-details-nosidebar.php">Mengulas Teknologi Self-Driving Terbaru: Fitur Autopilot Tesla Model X 2024 dan Fitur-Fitur Terkemuka Lainnya</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
-                            <a href="blog.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
+                            <a href="blog-details-nosidebar.php"><i class="fal fa-calendar-days"></i>13 Mar, 2024</a>
                         </div>
                     </div>
                 </div>
@@ -1109,7 +1109,7 @@ Blog Area
                             <img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="blog image">
                             <a data-theme-color="#019D9E" href="blog.php" class="category">Motor</a>
                         </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Komunitas Motor Adventure: Memetakan Destinasi Paling Epik untuk Petualangan Off-Road</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href= "">Komunitas Motor Adventure: Memetakan Destinasi Paling Epik untuk Petualangan Off-Road</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>12 Mar, 2024</a>
@@ -1122,7 +1122,7 @@ Blog Area
                             <img src="assets/img/gambar/dhiva-krishna-X16zXcbxU4U-unsplash.jpg" alt="blog image">
                             <a data-theme-color="#59C2D6" href="blog.php" class="category">Teknologi Otomotif</a>
                         </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Mengintip Perkembangan Terbaru dalam Pengisian Cepat Mobil Listrik: Solusi untuk Meningkatkan Ketersediaan Infrastruktur Pengisian</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href= "">Mengintip Perkembangan Terbaru dalam Pengisian Cepat Mobil Listrik: Solusi untuk Meningkatkan Ketersediaan Infrastruktur Pengisian</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Cahya</a> -->
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>16 Mar, 2024</a>
@@ -1135,7 +1135,7 @@ Blog Area
                             <img src="assets/img/gambar/jaromir-kavan-XuDPnpox8tc-unsplash.jpg" alt="blog image">
                             <a data-theme-color="#8750A6" href="blog.php" class="category">Industri Otomotif</a>
                         </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Menanggapi Perubahan Regulasi Lingkungan: Bagaimana Industri Otomotif Menyesuaikan Proses Manufaktur untuk Kepatuhan</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href= "">Menanggapi Perubahan Regulasi Lingkungan: Bagaimana Industri Otomotif Menyesuaikan Proses Manufaktur untuk Kepatuhan</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Tnews</a> -->
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>25 Mar, 2024</a>
@@ -1148,7 +1148,7 @@ Blog Area
                             <img src="assets/img/gambar/nicholas-green-nPz8akkUmDI-unsplash.jpg" alt="blog image">
                             <a data-theme-color="#FF9500" href="blog.php" class="category">Acara Otomotif</a>
                         </div>
-                        <h3 class="box-title-22"><a class="hover-line" href="blog-details.php">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h3>
+                        <h3 class="box-title-22"><a class="hover-line" href= "">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h3>
                         <div class="blog-meta">
                             <!-- <a href="team.php"><i class="far fa-user"></i>By - Tnews</a> -->
                             <a href="blog.php"><i class="fal fa-calendar-days"></i>14 Mar, 2024</a>
@@ -1222,10 +1222,10 @@ Newsletter Area
                             <div class="recent-post-wrap">
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="Blog Image"></a>
+                                        <a href= ""><img src="assets/img/gambar/anthony-delanoix-hzgs56Ze49s-unsplash.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href= "">Balap Drag: Memetakan Sirkuit Terbaik untuk Menyaksikan Aksi Kencang di Jalan Lurus</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>21 June, 2024</a>
                                         </div>
@@ -1233,10 +1233,10 @@ Newsletter Area
                                 </div>
                                 <div class="recent-post">
                                     <div class="media-img">
-                                        <a href="blog-details.php"><img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="Blog Image"></a>
+                                        <a href= ""><img src="assets/img/gambar/grahame-jenkins-p7tai9P7H-s-unsplash.jpg" alt="Blog Image"></a>
                                     </div>
                                     <div class="media-body">
-                                        <h4 class="post-title"><a class="hover-line" href="blog-details.php">Panduan Membeli Mobil Bekas: Tips Penting untuk Mendapatkan Kendaraan yang Berkualitas dengan Harga Terjangkau</a></h4>
+                                        <h4 class="post-title"><a class="hover-line" href= "">Panduan Membeli Mobil Bekas: Tips Penting untuk Mendapatkan Kendaraan yang Berkualitas dengan Harga Terjangkau</a></h4>
                                         <div class="recent-post-meta">
                                             <a href="blog.php"><i class="fal fa-calendar-days"></i>22 June, 2024</a>
                                         </div>
